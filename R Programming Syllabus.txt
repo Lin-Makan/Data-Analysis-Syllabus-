@@ -1,0 +1,352 @@
+
+    C. R :
+       ====
+       R Programming Syllabus :
+       =========================
+        *** Basics ***
+            ~~~~~~
+
+       1.  Introduction to R Programming Language
+       2.  Interesting Facts about R Programming Language
+       3.  R vs Python
+       4.  Environments in R Programming
+       5.  Introduction to R Studio
+       6.  How to Install R Studio on Windows and Linux?
+       7.  Creation and Execution of R File in R Studio
+       8.  Clear the Console and the Environment in R Studio
+       9.  Hello World in R Programming
+           
+         *** Basic Syntax ***
+             ~~~~~~~~~~~~
+
+       1.  Comments
+       2.  Operators
+       3.  Keywords
+       4.  Data Types
+
+        *** Variables *** 
+            ~~~~~~~~~
+
+​​​​        1.  Introduction to Variables
+        2.  Scope of Variable
+        3.  Dynamic Scoping 
+        4.  Lexical Scoping
+        5.  Lexical Scoping vs Dynamic Scoping
+      
+        *** Input and Output *** 
+            ~~~~~~~~~~~~~~~~
+
+        1.  Taking Input from User
+        2.  Printing Output of R Program
+        3.  Print the Argument to the Screen – print() Function
+
+        *** Decision Making ***
+            ~~~~~~~~~~~~~~~
+
+ 1.  Decision Making – if, if-else, if-else-if ladder, nested if-else, and switch
+ 2.  if statement
+ 3.  if-else statement
+ 4.  Switch case
+
+       *** Control Flow *** 
+           ~~~~~~~~~~~~
+ 
+    1.  Introduction to Control Statements
+    2.  Loops (for, while, repeat)
+    3.  For loop
+    4.  while loop
+    5.  Repeat loop
+    6.  goto statement
+    7.  Break and Next statements
+    8.  Next Statement
+
+       *** Functions ***
+           ~~~~~~~~~
+
+    1.  Introduction to Functions
+    2.  Function Arguments
+    3.  Types of Functions
+    4.  Recursive Functions
+    5.  Conversion Functions
+    6.  Data Structures
+    7.  Introduction to Data Structures
+
+      *** Strings *** 
+          ~~~~~~~
+
+    1.  Introduction to Strings
+    2.  Working with Text
+    3.  String Manipulation
+    4.  Concatenate Two Strings
+    5.  String Matching
+    6.  How to find a SubString?
+    7.  Finding the length of string – nchar() method
+    8.  Adding elements in a vector – append() method
+    9.  Convert string from Lowercase to Uppercase – toupper() function
+   10.  Convert String from Uppercase to Lowercase – tolower() method
+   11.  Splitting Strings – strsplit() method
+   12.  Print a Formatted string – sprintf() Function
+
+     *** Vectors ***
+         ~~~~~~~
+
+   1.  Introduction to Vectors
+   2.  Operations on Vectors 
+   3.  Append Operation on Vectors
+   4.  Dot Product of Vectors
+   5.  Types of Vectors
+   6.  Assigning Vectors 
+   7.  Getting and Setting Length of the Vectors – length() Function
+   8.  Creating a Vector of sequenced elements – seq() Function 
+   9.  Get the Minimum and Maximum element of a Vector – range() Function
+  10.  Formatting Numbers and Strings – format() Function
+  11.  Replace the Elements of a Vector – replace() Function
+  12.  Sorting of a Vector – sort() Function
+  13.  Convert elements of a Vector to Strings – toString() Function
+  14.  Extracting Substrings from a Character Vector – substring() Function
+
+    *** Lists ***
+        ~~~~~
+
+   1.  Introduction to Lists
+   2.  Two Dimensional List
+   3.  Operations on Lists
+   4.  List of Vectors
+   5.  List of Dataframes
+   6.  Named List
+   7.  Check if the Object is a List – is.list() Function
+   8.  Convert an Object to List – as.list() Function
+   9. Check if an Object of the Specified Name is Defined or not – exists() Function
+  10.  Apply a Function over a List of elements – lapply() Function
+  11.  Performing Operations on Multiple Lists simultaneously – mapply() Function
+
+>>> More Functions on Lists
+
+   *** Arrays ***
+       ~~~~~~
+
+    1.  Introduction to Arrays
+    2.  Multidimensional Array
+    3.  Array Operations
+    4.  Sorting of Arrays
+    5.  Convert values of an Object to Logical Vector – as.logical() Function
+    6.  Performing different Operations on Two Arrays – outer() Function
+    7.  Intersection of Two Objects – intersect() Function
+    8.  Get Exclusive Elements between Two Objects – setdiff() Function
+
+>>> More Functions on Arrays
+
+   *** Matrices ***
+       ~~~~~~~~
+
+    1.  Introduction to Matrices
+    2.  Create Matrix from Vectors
+    3.  Operations on Matrices
+    4.  Matrix Multiplication
+    5.  Algebraic Operations on a Matrix
+    6.  Combining Matrices
+    7.  Matrix Transpose
+    8.  Inverse of Matrix
+    9.  Working with Sparse Matrices
+   10.  Check if the Object is a Matrix – is.matrix() Function
+   11.  Convert an Object into a Matrix – as.matrix() Function
+   12.  Get or Set Dimensions of a Matrix – dim() Function
+   13.  Calculate Cumulative Sum of a Numeric Object – cumsum() Function
+   14.  Compute the Sum of Rows of a Matrix or Array – rowSums Function
+
+>>> More Functions on Matrices
+
+   *** Factors ***
+       ~~~~~~~
+
+    1.  Introduction to Factors
+    2.  Level Ordering of Factors
+    3.  Convert Factor to Numeric and Numeric to Factor
+    4.  Check if a Factor is an Ordered Factor – is.ordered() Function
+    5.  Convert an Unordered Factor to an Ordered Factor  – as.ordered() Function
+    6.  Checking if the Object is a Factor – is.factor() Function
+    7.  Convert a Vector into Factor – as.factor() Function
+
+   *** DataFrames ***
+       ~~~~~~~~~~
+ 
+    1.  Introduction to Data Frames  
+    2.  Matrix vs Dataframe
+    3.  DataFrame Operations
+    4.  DataFrame Manipulation
+    5.  Joining of Dataframes
+    6.  The Factor Issue in a DataFrame
+    7.  Data Reshaping
+    8.  Creating a Data Frame from Vectors
+    9.  Data Wrangling – Data Transformation
+   10.  Data Wrangling – Working with Tibbles
+   11.  Melting and Casting
+   12.  Subsetting of DataFrames
+   13.  Handling Missing Values
+   14.  Convert an Object to Data Frame – as.data.frame() Function
+   15.  Get the number of columns of an Object – ncol() Function
+   16.  Get the number of rows of an Object – nrow() Function
+   17.  Get Addition of the Objects passed as Arguments – sum() Function  
+   18.  Create Subsets of a Data frame – subset() Function
+
+>>> More Functions on DataFrames
+
+    *** Object Oriented Programming ***
+        ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+    1.  Introduction to Object-Oriented Programming
+    2.  Classes
+    3.  Objects
+    4.  Encapsulation
+    5.  Polymorphism
+    6.  Inheritance
+    7.  Abstraction
+    8.  Looping over Objects
+    9.  Creating, Listing, and Deleting Objects in Memory
+   10.  S3 class
+   11.  Explicit Coercion
+   12.  R6 Classes
+   13.  Getting attributes of Objects – attributes() and attr() Function
+   14.  Get or Set names of Elements of an Object – names() Function
+   15.  Get the Minimum element of an Object – min() Function
+   16.  Get the Maximum element of an Object – max() Function
+
+>>> More Functions on R Objects
+
+    *** Error Handling ***
+        ~~~~~~~~~~~~~~
+
+   1.  Introduction to Error Handling
+   2.  Condition Handling
+   3.  Debugging in R Programming
+
+    *** File Handling ***
+        ~~~~~~~~~~~~~
+
+   1.  Introduction to File Handling
+   2.  Reading Files
+   3.  Writing to Files
+   4.  Read Lines from a File – readLines() Function
+   5.  Working with Binary Files
+
+     *** Packages in R ***
+         ~~~~~~~~~~~~~
+
+   1.  Introduction to Packages
+   2.  dplyr Package
+   3.  ggplot2 package
+   4.  Grid and Lattice Packages
+   5.  Shiny Package
+   6.  tidyr Package
+   7.  What Are the Tidyverse Packages?
+   8.  Data Munging
+
+     *** Data Interfaces ***
+         ~~~~~~~~~~~~~~~
+
+   1.  Data Handling
+   2.  Importing Data in R Script
+   3.  How To Import Data from a File?
+   4.  Exporting Data from scripts 
+   5.  Working with CSV files 
+   6.  Working with XML Files
+   7.  Working with Excel Files
+   8.  Working with JSON Files 
+   9.  Reading Tabular Data from files
+  10.  Working with Databases
+  11.  Database Connectivity
+  12.  Manipulate Data Frames Using SQL
+
+       *** Data Visualization ***
+           ~~~~~~~~~~~~~~~~~~
+
+   1.  Graph Plotting
+   2.  Graphical Models
+   3.  Plotting Graphs using Two Dimensional List
+   4.  Data Visualization
+   5.  Charts and Graphs
+   6.  Add Titles to a Graph
+   7.  Adding Colors to Charts
+   8.  Adding Text to Plots
+   9.  Adding axis to a Plot
+  10.  Set or View the Graphics Palette 
+  11.  Plotting of Data using Generic plots
+  12.  Bar Charts
+  13.  Line Graphs
+  14.  Adding Straight Lines to a Plot
+  15.  Addition of Lines to a Plot
+  16.  Histograms
+  17.  Pie Charts 
+  18.  Scatter plots 
+  19.  Create One Dimensional Scatterplots  
+  20.  Create a Plot Matrix of Scatterplots
+  21.  Create Dot Charts
+  22.  Boxplots in R Language
+  23.  Stratified Boxplot
+  24.  Create a Heatmap
+  25.  Pareto Chart
+  26.  Waffle Chart
+  27.  Draw a Quantile-Quantile Plot
+  28.  Creating 3D Plots
+  29.  Describe Parts of a Chart in Graphical Form
+  30.  Principal Component Analysis
+  31.  Social Network Analysis
+
+     *** Statistics ***
+         ~~~~~~~~~~
+  1.  Introduction to Statistics
+  2.  Calculate the Mean, Median, and Mode
+  3.  Calculate the Average, Variance, and Standard Deviation
+  4.  Homogeneity of Variance Test  
+  5.  Covariance and Correlation 
+  6.  Correlation Matrix
+  7.  Visualize correlation matrix using correlogram 
+  8.  Distance Matrix by GPU  
+  9.  Descriptive Analysis
+ 10.  Normal Distribution 
+ 11.  Binomial Distribution 
+ 12.  Compute the Negative Binomial Density
+ 13.  Poisson Functions 
+ 14.  ANOVA Test
+ 15.  MANOVA Test
+ 16.  Naive Bayes Classifier
+ 17.  K-NN Classifier
+ 18.  Central Tendency
+ 19.  Variability
+ 20.  Skewness and Kurtosis
+ 21.  Absolute and Relative Frequency
+ 22.  Permutation Hypothesis Test
+ 23.  AB Testing
+ 24.  Completely Randomized Design
+ 25.  Randomized Block Design
+ 26.  Bartlett’s Test
+ 27.  Tree Entropy
+ 28.  Tukey’s Five-number Summary
+ 29.  Compute Summary Statistics of Subsets
+ 30.  Hypothesis Testing
+ 31.  Bootstrapping
+ 32.  Time Series Analysis
+ 33.  T-Test Approach
+
+      *** Machine Learning with R ***
+          ~~~~~~~~~~~~~~~~~~~~~~~
+
+   1.  Introduction to Machine Learning
+   2.  Setting up Environment for Machine Learning  
+   3.  Supervised and Unsupervised Learning
+   4.  Classification
+   5.  Regression and its Types
+   6.  Regression Analysis
+   7.  Decision Tree
+   8.  Random Forest Approach
+   9.  Root-Mean-Square Error
+  10.  Clustering
+  11.  Hierarchical Clustering
+  12.  DBScan Clustering
+  13.  Deep Learning
+  14.  Building a Simple Neural Network
+  15.  How Neural Networks are used for Regression?
+  16.  Multi Layered Neural Networks
+  17.  Survival Analysis
+  18.  Stem and Leaf Plots
+
