@@ -1,0 +1,1566 @@
+  
+
+ Learn Python Programming :
+ ===========================
+ ==================== Python Basic Tutorial ==================================
+                      =====================
+
+    1.  ** Python - Home : **
+           ``````````````
+           (A) Why to Learn Python ? 
+               --------------------
+           (B) Characteristics of Python :
+               --------------------------
+           (C) Hello World using Python :
+               ------------------------
+           (D) Applications of Python :
+               -----------------------
+
+    2.  ** Python - Overview : **
+           ``````````````````
+           (A) What is Python ?
+               ---------------
+           (B) History of Python 
+               -----------------
+           (C) Python Features
+               ---------------
+
+    3.  ** Python - Environment Setup : **
+           ```````````````````````````
+           (A) Local Environment Setup 
+               -----------------------
+           (B) Getting Python
+               --------------
+           (C) Installing Python
+               -----------------
+           (D) Unix and Linux Installation
+               ---------------------------
+           (E) Windows Installation
+               --------------------
+           (F) Macintosh Installation
+               ----------------------
+           (G) Setting up PATH
+               ---------------
+           (H) Setting path at Unix/Linux
+               --------------------------
+           (I) Setting path at Windows
+               -----------------------
+           (J) Python Environment Variables :
+               ----------------------------
+                  * PYTHONPATH
+                  * PYTHONSTARTUP
+                  * PYTHONCASEOK
+                  * PYTHONHOME
+
+           (K) Running Python :
+               --------------
+                 * Interactive Interpreter :
+                       - Available Command Line Options
+                 * Script from the Command-Line
+                 * Integrated Development Environment
+
+    4.  ** Python - Basic Syntax : **
+           ``````````````````````
+             (A) First Python Program :
+                 ----------------------
+                    * Interactive Mode Programming
+                    * Script Mode Programming
+
+             (B) Python Identifiers :
+                 ------------------
+             (C) Reserved Words :
+                 --------------
+             (D) Lines and Indentation :
+                 ----------------------
+             (E) Multi-Line Statements :
+                 ----------------------
+             (F) Quotation in Python :
+                 ---------------------
+             (G) Comments in Python :
+                 -------------------
+             (H) Using Blank Lines :
+                 ------------------
+             (I) Waiting for the User :
+                 ---------------------
+             (J) Multiple Statements on a Single Line :
+                 --------------------------------------
+             (K) Multiple Statement Groups as Suites :
+                 ------------------------------------
+             (L) Command Line Arguments :
+                 -----------------------
+
+    5.  ** Python - Variable Types : **
+           ````````````````````````
+           (A) Assigning Values to Variables :
+               -----------------------------
+           (B) Multiple Assignment :
+               --------------------
+           (C) Standard Data Types :
+               --------------------
+           (D) Python Numbers :
+               ---------------
+                  * int
+                  * long
+                  * float
+                  * complex
+
+           (E) Python Strings :
+               --------------- 
+           (F) Python Lists : 
+               -------------
+           (G) Python Tuples :
+               --------------
+           (H) Python Dictionary :
+               ------------------
+           (I) Data Type Conversion :
+               ---------------------
+        Built-in Functions to perform Conversions between built types :
+        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                * int(x [,base])
+                * long(x [,base] )
+                * float(x)
+                * complex(real [,imag])
+                * str(x)
+                * repr(x)
+                * eval(str)
+                * tuple(s)
+                * list(s)
+                * set(s)        
+                * dict(d)
+                * frozenset(s)
+                * chr(x)
+                * unichr(x)
+                * ord(x)
+                * hex(x)
+                * oct(x)
+
+    6.  ** Python - Basic Operators : ** 
+           `````````````````````````
+           (A) Arithmetic Operators :
+               ---------------------
+                 + Addition
+                 - Subtraction
+                 * Multiplication
+                 / Division
+                 % Modulus
+                 ** Exponent
+                 // Floor Division
+              
+           (B) Comparison (Relational) Operators/Python Comparison Operators :
+               ---------------------------------------------------------------
+                ==
+                !=
+                <>
+                >
+                <
+                >=
+                <=
+
+           (C) Python Assignment Operators :
+               ----------------------------
+                =
+                += Add AND
+                -= Subtract AND
+                *= Multiply AND
+                /= Divide AND
+                %= Modulus AND
+                **= Exponent AND
+                //= Floor Division
+
+           (D) Python Logical Operators :
+               -------------------------
+           (E) Python Bitwise Operators :
+               -------------------------
+           (F) Python Membership Operators :
+               ----------------------------
+           (G) Python Identity Operators :
+               --------------------------
+           (H) Python Operators Precedence :
+               ----------------------------
+                 **             " Exponentiation/Exponent (raise to the power) "
+
+                 ~ + -          " Complement, unary plus and minus (method names for the last two are +@ and -@) "
+
+                 * / % //       " Multiply, divide, modulo and floor division "
+
+                 + -            " Addition and subtraction "
+
+                 >> <<          " Right and left bitwise shift "
+
+                 &              " Bitwise 'AND' "
+
+                 ^|             " Bitwise exclusive `OR' and regular `OR' "
+
+                 <= < > >=      " Comparison operators "
+
+                 <> == !=       " Equality operators "
+
+                 = %= /= //= -= += *= **=      " Assignment operators "
+
+                 is is not      " Identity operators "
+
+                 in not in      " Membership operators "
+
+                 not or and     " Logical operators "
+
+                 ()             " Parentheses " 
+
+                 f(args...)     " Function call "
+ 
+                 (expressions…), [expressions…],{expressions…}, and
+                 {key: value…}                 " Displaying sequences, and dictionaries "                         
+
+                 x[index], x[index:index], x(arguments), x.attribute
+                                      " Indexing, slicing, calling, attribute referencing " 
+
+                 await x          " Await expression "
+                  
+                 +x, –x, ~x       " Positive, negative, bitwise NOT "
+                 
+                 *, /, //, %      " Multiplication, division, remainder "
+                 
+                 <<, >>           " Bitwise left and right shifts "
+                  
+                 &                " Bitwise AND "
+                 
+                 ^                " Bitwise XOR "
+                 
+                 |                " Bitwise OR "
+
+                 in, not in, is, is not, <, >,<=, >=,
+                         !=, ==, <>        " Comparisons, identity, and membership operators "
+                 
+                 not             " Boolean NOT "
+                 
+                 and             " Boolean AND "
+
+                 or              " Boolean OR "
+                 
+                 if- else        " Conditional expression "
+                  
+                 lambda          " Lambda expression "
+
+    7.  ** Python - Decision Making : **
+           ````````````````````````` 
+             (A) if statement
+             (B) if...else statement
+             (C) nested if statements
+             (D) Single Statement Suites
+
+    8.  ** Python - Loops : **
+           ```````````````
+               Types of Loops to handle Looping Requirements :
+               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                 (A) while loop
+                 (B) for loop
+                 (C) nested loops
+                
+               Loop Control Statements :
+               ~~~~~~~~~~~~~~~~~~~~~~~~~ 
+                  (A) break statement
+                  (B) continue statement
+                  (C) pass statement
+ 
+    9.  ** Python - Numbers : **
+           `````````````````
+             Number Data Types :
+
+             Number Data Types Store Numeric Values :
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+             Python supports Four different Numerical Types −
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                 (A) int (signed integers) :
+                 (B) long (long integers ) :
+                 (C) float (floating point real values) :
+                 (D) complex (complex numbers) :
+
+             Number Type Conversion :
+             ~~~~~~~~~~~~~~~~~~~~~~~~
+               (A) Type int(x)      to convert x to a plain integer
+
+               (B) Type long(x)     to convert x to a long integer
+
+               (C) Type float(x)    to convert x to a floating-point number
+
+               (D) Type complex(x)  to convert x to a complex number with
+                                    real part x and imaginary part zero
+
+               (E) Type complex(x, y)   to convert x and y to a complex number 
+                                        with real part x and imaginary part y. 
+                                        x and y are numeric expressions
+                   
+               Mathematical Functions :
+               ~~~~~~~~~~~~~~~~~~~~~~~~
+                 (A) abs(x)
+                 (B) ceil(x)
+                 (C) cmp(x, y)
+                 (D) exp(x)                 
+                 (E) fabs(x)
+                 (F) floor(x)
+                 (G) log(x)
+                 (H) log10(x)
+                 (I) max(x1, x2,...)
+                 (J) min(x1,x2,...)
+                 (K) modf(x)
+                 (L) pow(x,y)
+                 (M) round(x[,n])
+                 (N) sqrt(x)
+                
+              Random Number Functions :
+              ~~~~~~~~~~~~~~~~~~~~~~~~~
+                  (A) choice(seq)
+                  (B) randrange ([start,] stop [,step])
+                  (C) random()
+                  (D) seed([x])
+                  (E) shuffle(lst)
+                  (F) uniform(x, y)
+ 
+              Trigonometric Functions :
+              ~~~~~~~~~~~~~~~~~~~~~~~~~
+                  (A) acos(x)
+                  (B) asin(x)
+                  (C) atan(x)
+                  (D) atan2(y, x)
+                  (E) cos(x)
+                  (F) hypot(x, y)
+                  (G) sin(x)
+                  (H) tan(x)
+                  (I) degrees(x)
+                  (J) radians(x)
+               
+               Mathematical Constants :
+               ~~~~~~~~~~~~~~~~~~~~~~~~                 	
+                 (A)  pi
+                 (B)  e
+                                                
+   10.  ** Python - Strings : **
+           `````````````````
+             (A) Accessing Values in Strings : 
+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+             (B) Updating Strings :
+                 ~~~~~~~~~~~~~~~~~~
+             (C) Escape Characters :
+                 ~~~~~~~~~~~~~~~~~~~
+  __________________________________________________________________________
+  Backslash notation || Hexadecimal Character || Description
+  ___________________||_______________________||____________________________
+   \a                    0x07                    Bell or alert
+   ..........................................................
+   \b                    0x08                    Backspace
+   ..........................................................
+   \cx                                           Control-x
+   ..........................................................
+   \C-x                                          Control-x
+   ..........................................................
+   \e                    0x1b                    Escape
+   ..........................................................
+   \f                    0x0c                    Formfeed
+   ...........................................................
+   \M-\C-x                                       Meta-Control-x
+   ........................................................... 
+   \n                    0x0a                    Newline
+   ...........................................................................
+   \nnn                                          Octal notation, where n is in
+                                                 the range 0.7
+   ...........................................................................
+   \r                    0x0d                    Carriage return
+   ...........................................................................
+   \s                    0x20                    Space
+   ...........................................................................
+   \t                    0x09                    Tab
+   ...........................................................................
+   \v                    0x0b                    Vertical tab
+   ...........................................................................
+   \x                                            Character x
+   ................................................................................
+   \xnn                                          Hexadecimal notation, where n 
+                                                 is in the range 0.9, a.f, or A.F
+   ................................................................................
+  
+            (D)  String Special Operators :
+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~
+                   +        Concatenation
+
+                   *        Repetition
+
+                   []       Slice
+                   
+                   [:]      Range Slice
+                  
+                   in       Membership 
+                   
+                   not in   Membership
+                    
+                   r/R      Raw String
+                   
+                   %        Format
+
+            (E)  String Formatting Operator :
+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                    Set of Symbols which can be used Along with % − 
+                    ```````````````````````````````````````````````` 
+             ________________________________________________________
+                      Format Symbol   |     Conversion
+             _________________________|______________________________
+                    %c	                  character
+             ........................................................
+                    %s	                  string conversion via str()
+                                          prior to formatting
+             ........................................................
+                    %i	                  signed decimal integer
+             .........................................................
+                    %d	                  signed decimal integer
+             .........................................................
+                    %u	                  unsigned decimal integer
+             .........................................................
+                    %o	                  octal integer
+             .....................................................................
+                    %x	                  hexadecimal integer (lowercase letters)
+             .....................................................................
+                    %X	                  hexadecimal integer (UPPERcase letters)
+             ......................................................................
+                    %e	                  exponential notation (with lowercase 'e')
+             ......................................................................
+                    %E	                  exponential notation (with UPPERcase 'E')
+             ......................................................................
+                    %f	                  floating point real number
+             .......................................................................
+                    %g	                  the shorter of %f and %e
+             .......................................................................
+                    %G	                  the shorter of %f and %E
+             ........................................................................
+
+            (F)  Triple Quotes :
+                 ~~~~~~~~~~~~~~~
+            (G)  Unicode String :
+                 ~~~~~~~~~~~~~~~~
+            (H)  Built-in String Methods :
+                 ~~~~~~~~~~~~~~~~~~~~~~~~~
+                    1. capitalize()
+                    2. center(width, fillchar)
+                    3. count(str, beg= 0,end=len(string))
+                    4. decode(encoding='UTF-8',errors='strict')
+                    5. encode(encoding='UTF-8',errors='strict')
+                    6. endswith(suffix, beg=0, end=len(string))
+                    7. expandtabs(tabsize=8)
+                    8. find(str, beg=0 end=len(string))
+                    9. index(str, beg=0, end=len(string))
+                   10. isalnum()
+                   11. isalpha()
+                   12. isdigit()
+                   13. islower()
+                   14. isnumeric()
+                   15. isspace()
+                   16. istitle()
+                   17. isupper()
+                   18. join(seq)
+                   19. len(string)
+                   20. ljust(width[, fillchar])
+                   21. lower()
+                   22. lstrip()
+                   23. maketrans()
+                   24. max(str)
+                   25. min(str)
+                   26. replace(old, new [, max]) 
+                   27. rfind(str, beg=0,end=len(string))
+                   28. rindex( str, beg=0, end=len(string))
+                   29. rjust(width,[, fillchar])
+                   30. rstrip()
+                   31. split(str="", num=string.count(str))
+                   32. splitlines( num=string.count('\n'))
+                   33. startswith(str, beg=0,end=len(string))
+                   34. strip([chars])
+                   35. swapcase()
+                   36. title()
+                   37. translate(table, deletechars="")
+                   38. upper()
+                   39. zfill (width)
+                   40. isdecimal()
+
+   11.  ** Python - Lists : **
+           ```````````````
+          (A) Accessing Values in Lists :
+              --------------------------
+          (B) Updating Lists :
+              ---------------
+          (C) Delete List Elements :
+              ---------------------
+          (D) Basic List Operations :
+              ----------------------
+  _______________________________________________________________________________
+  Python Expression             |        Results	       |   Description
+  ______________________________|______________________________|_________________
+   len([1, 2, 3])                         3                         Length
+   ...............................................................................
+   [1, 2, 3] + [4, 5, 6]            [1, 2, 3, 4, 5, 6]             Concatenation
+   ...............................................................................
+   ['Hi!'] * 4                    ['Hi!', 'Hi!', 'Hi!', 'Hi!']    Repetition
+   ...............................................................................
+   3 in [1, 2, 3]                         True                      Membership
+   ...............................................................................
+   for x in [1, 2, 3]: print x,          1 2 3                     Iteration
+   ...............................................................................
+
+          (E) Indexing, Slicing, and Matrixes :  
+              --------------------------------
+   ____________________________________________________________________________
+   Python Expression       |     Results	  | Description
+   ________________________|______________________|____________________________
+          L[2]                      SPAM!            Offsets start at zero
+   ............................................................................
+         L[-2]                      Spam             Negative: count from
+                                                     the right         
+   .............................................................................
+         L[1:]                  ['Spam', 'SPAM!']    Slicing fetches sections
+   .............................................................................
+
+          (F) Built-in List Functions & Methods :
+              ----------------------------------
+                    The following List Functions −
+                    ```````````````````````````````
+                      1. cmp(list1, list2)
+                      2. len(list)
+                      3. max(list)
+                      4. min(list)
+                      5. list(seq)
+
+                   The following List Methods -
+                   `````````````````````````````
+                      1. list.append(obj)
+                      2. list.count(obj)
+                      3. list.extend(seq)
+                      4. list.index(obj)
+                      5. list.insert(index, obj)
+                      6. list.pop(obj=list[-1])
+                      7. list.remove(obj)
+                      8. list.reverse()
+                      9. list.sort([func])
+
+   12.  ** Python - Tuples : **
+           ````````````````
+          (A) Accessing Values in Tuples :
+              ````````````````````````````
+          (B) Updating Tuples :
+              ``````````````````
+          (C) Delete Tuple Elements :
+              ````````````````````````
+          (D) Basic Tuples Operations :
+              ``````````````````````````
+  _______________________________________________________________________________
+  Python Expression             |        Results	       |   Description
+  ______________________________|______________________________|_________________
+   len([1, 2, 3])                         3                         Length
+   ...............................................................................
+   [1, 2, 3] + [4, 5, 6]            [1, 2, 3, 4, 5, 6]             Concatenation
+   ...............................................................................
+   ['Hi!'] * 4                    ['Hi!', 'Hi!', 'Hi!', 'Hi!']    Repetition
+   ...............................................................................
+   3 in [1, 2, 3]                         True                      Membership
+   ...............................................................................
+   for x in [1, 2, 3]: print x,          1 2 3                     Iteration
+   ...............................................................................
+
+          (E) Indexing, Slicing, and Matrixes :
+              ``````````````````````````````````
+   ____________________________________________________________________________
+   Python Expression       |     Results	  | Description
+   ________________________|______________________|____________________________
+          L[2]                      SPAM!            Offsets start at zero
+   ............................................................................
+         L[-2]                      Spam             Negative: count from
+                                                     the right         
+   .............................................................................
+         L[1:]                  ['Spam', 'SPAM!']    Slicing fetches sections
+   .............................................................................
+
+          (F) No Enclosing Delimiters :
+              `````````````````````````
+
+          (G) Built-in Tuple Functions :
+              ```````````````````````````
+                   The following Tuple Functions −
+                   ````````````````````````````````
+                     1. cmp(tuple1, tuple2)
+                     2. len(tuple)
+                     3. max(tuple)
+                     4. min(tuple)
+                     5. tuple(seq)
+
+
+   13.  ** Python - Dictionary : **
+           ````````````````````
+             Accessing Values in Dictionary :
+             ````````````````````````````````
+             Updating Dictionary :
+             `````````````````````
+             Delete Dictionary Elements :
+             ````````````````````````````
+             Properties of Dictionary Keys :
+             ```````````````````````````````
+             Built-in Dictionary Functions & Methods :
+             `````````````````````````````````````````
+                  The following Dictionary Functions −
+                  `````````````````````````````````````
+                    1. cmp(dict1, dict2)
+                    2. len(dict)
+                    3. str(dict)
+                    4. type(variable)
+                  
+                  The following Dictionary Methods −
+                  ```````````````````````````````````
+                     1. dict.clear()
+                     2. dict.copy()
+                     3. dict.fromkeys()
+                     4. dict.get(key, default=None)
+                     5. dict.has_key(key)
+                     6. dict.items()
+                     7. dict.keys()
+                     8. dict.setdefault(key, default=None)
+                     9. dict.update(dict2)
+                    10. dict.values()
+
+   14.  ** Python - Date & Time : **
+           `````````````````````
+            (A) What is Tick?
+                ``````````````
+            (B) What is TimeTuple?
+                ``````````````````
+    Many of Python's "Time Functions" handle time as a tuple of 9 numbers - 
+    ````````````````````````````````````````````````````````````````````````
+  _____________________________________________________________________________
+     Index           ||    Field            ||   Values
+  ___________________||_____________________||_________________________________
+    0                     4-digit year         2008   
+   ............................................................................
+    1                     Month                1 to 12
+   .............................................................................
+    2                     Day                  1 to 31   
+   .............................................................................
+    3                     Hour                 0 to 23    
+   ..............................................................................
+    4                     Minute               0 to 59
+    .............................................................................
+    5                     Second              0 to 61 (60 0r 61 are leap-seconds)
+   ..............................................................................
+    6                     Day of Week          0 to 6 (0 is Monday)       
+   .............................................................................. 
+    7                     Day of year          1 to 366 (Julian day)
+   ..............................................................................
+    8                   Daylight savings      -1, 0, 1, -1 means library
+                                              determines DST              
+   ..............................................................................
+
+   The above tuple is equivalent to struct_time structure -
+   ````````````````````````````````````````````````````````
+   This structure has following attributes −
+   ``````````````````````````````````````````
+ _____________________________________________________________________________
+     Index           ||    Field            ||   Values
+  ___________________||_____________________||_________________________________
+    0                     tm_year              2008   
+   ............................................................................
+    1                     tm_mon               1 to 12
+   .............................................................................
+    2                     tm_mday              1 to 31   
+   .............................................................................
+    3                     tm_hour              0 to 23    
+   ..............................................................................
+    4                     tm_min               0 to 59
+    .............................................................................
+    5                     tm_sec              0 to 61 (60 0r 61 are leap-seconds)
+   ..............................................................................
+    6                    tm_wday               0 to 6 (0 is Monday)       
+   .............................................................................. 
+    7                    tm_yday               1 to 366 (Julian day)
+   ..............................................................................
+    8                    tm_isdst             -1, 0, 1, -1 means library
+                                              determines DST              
+   ..............................................................................
+
+            (C) Getting current time
+                `````````````````````
+            (D) Getting formatted time
+                ```````````````````````
+            (E) Getting calendar for a month
+                `````````````````````````````
+            (F) The time Module
+                ```````````````` 
+                  1. time.altzone
+                  2. time.asctime([tupletime])
+                  3. time.clock( )
+                  4. time.ctime([secs])
+                  5. time.gmtime([secs])
+                  6. time.localtime([secs])
+                  7. time.mktime(tupletime)
+                  8. time.sleep(secs)
+                  9. time.strftime(fmt[,tupletime])
+                 10. time.strptime(str,fmt='%a %b %d %H:%M:%S %Y')
+                 11. time.time( )
+                 12. time.tzset()
+
+      Two important Attributes available with Time Module −
+      ``````````````````````````````````````````````````````
+                (A) time.timezone
+                (B) time.tzname
+
+            (G) The calendar Module
+                ````````````````````
+         List of Functions available with the Calendar Module −
+         ```````````````````````````````````````````````````````
+                     1. calendar.calendar(year,w=2,l=1,c=6)
+                     2. calendar.firstweekday( )
+                     3. calendar.isleap(year)
+                     4. calendar.leapdays(y1,y2)
+                     5. calendar.month(year,month,w=2,l=1)
+                     6. calendar.monthcalendar(year,month)
+                     7. calendar.monthrange(year,month)
+                     8. calendar.prcal(year,w=2,l=1,c=6)
+                     9. calendar.prmonth(year,month,w=2,l=1)
+                    10. calendar.setfirstweekday(weekday)
+                    11. calendar.timegm(tupletime)
+                    12. calendar.weekday(year,month,day)
+
+            (H) Other Modules & Functions
+                ``````````````````````````
+                 *  The datetime Module
+                 *  The pytz Module
+                 *  The dateutil Module
+
+ Other Important Modules and Functions to play with Date & Time in Python -
+ ```````````````````````````````````````````````````````````````````````````
+
+   15.  ** Python - Functions : **
+           ``````````````````` 
+          (A) Defining a Function :
+              `````````````````````
+               * Syntax 
+               * Example 
+
+          (B) Calling a Function :
+              `````````````````````
+          (C) Pass by reference vs value :
+              `````````````````````````````
+          (D) Function Arguments :
+              `````````````````````
+      You can call a Function by using the following Types of Formal Arguments −
+      ```````````````````````````````````````````````````````````````````````````
+            * Required arguments :
+            * Keyword arguments :
+            * Default arguments :
+            * Variable-length arguments :
+
+          (E) The Anonymous Functions :
+              ``````````````````````````
+               * Syntax
+
+          (F) The return Statement :
+              ```````````````````````
+          (G) Scope of Variables :
+              `````````````````````
+               Two Basic Scopes of Variables in Python −
+               ``````````````````````````````````````````
+                * Global variables
+                * Local variables
+
+          (H) Global vs. Local variables :
+              `````````````````````````````
+   16.  ** Python - Modules : **   
+           `````````````````
+            (A) The import Statement :
+                ```````````````````````
+            (B) The from...import Statement :
+                `````````````````````````````
+            (C) The from...import * Statement :
+                ````````````````````````````````
+            (D) Locating Modules :
+                ```````````````````
+            (E) The PYTHONPATH Variable :
+                ``````````````````````````
+            (F) Namespaces and Scoping :
+                `````````````````````````
+            (G) The dir( ) Function :
+                ``````````````````````
+            (H) The globals() and locals() Functions :
+                ```````````````````````````````````````
+            (I) The reload() Function :
+                ````````````````````````
+            (J) Packages in Python :
+                `````````````````````
+
+   17.  ** Python - Files I/O : **
+           ```````````````````
+            (A) Printing to the Screen :
+                `````````````````````````
+            (B) Reading Keyboard Input :
+                ````````````````````````
+ Python has Two Built-in Functions to read a line of text from 
+ standard input which comes from the keyboard : 
+                 These functions are −
+                 ``````````````````````
+                  * raw_input   (The raw_input Function)
+                  * input       (The input Function)
+                            
+            (C) Opening and Closing Files :
+                ````````````````````````````
+            (D) The open Function :
+                ````````````````````
+                              ________________________________________________
+    * Syntax : file object = |  open(file_name [, access_mode][, buffering])  |
+                             |________________________________________________|
+
+                 * parameter details −  
+                        file_name −
+                        access_mode −
+                        buffering −
+
+     (E) List of the different Modes of Opening a File −
+         ````````````````````````````````````````````````
+             1. r
+             2. rb
+             3. r+
+             4. rb+
+             5. w
+             6. wb
+             7. w+
+             8. wb+
+             9. a
+            10. ab
+            11. a+
+            12. ab+
+
+   (F)  The file Object Attributes :
+        `````````````````````````````
+             1. file.closed
+             2. file.mode
+             3. file.name
+             4. file.softspace
+
+   (G)  The close() Method :
+        `````````````````````
+   (H)  Reading and Writing Files :
+        ```````````````````````````` 
+           * The write() Method
+                          ___________________________
+                Syntax - |  fileObject.write(string) |
+                         |___________________________|
+                Example -
+
+           * The read() Method
+                          ____________________________
+                Syntax - |  fileObject.read([count])  |
+                         |____________________________|
+                Example -
+
+  (I) File Positions :
+      `````````````````
+           Example -
+         
+  (J) Renaming and Deleting Files :
+      ``````````````````````````````
+          * The rename() Method :
+                          _______________________________________________
+                Syntax - |  os.rename(current_file_name, new_file_name)  |
+                         |_______________________________________________|
+
+                Example -
+
+          * The remove() Method :
+                           _________________________
+                Syntax -  |  os.remove(file_name)   |
+                          |_________________________|
+
+                Example - 
+
+  (K) Directories in Python :
+      ````````````````````````
+   1. The mkdir() Method :
+      `````````````````````
+                      ______________________
+           Syntax -  |  os.mkdir("newdir")  |
+                     |______________________|
+
+           Example -
+
+   2. The chdir() Method :
+      `````````````````````
+                      ______________________
+           Syntax -  |  os.chdir("newdir")  |
+                     |______________________|
+           Example - 
+
+  (N) The getcwd() Method :
+      ``````````````````````
+                     ______________________
+           Syntax - |   os.getcwd()        |
+                    |______________________|
+           Example -
+
+  (O) The rmdir() Method :
+      `````````````````````
+                     _______________________
+           Syntax - |  os.rmdir('dirname')  |
+                    |_______________________|
+           Example - 
+
+  (P) File & Directory Related Methods :
+      ``````````````````````````````````
+        File Object Methods : 
+        OS Object Methods :
+
+   18.  ** Python - Exceptions Handling : **
+           ``````````````````````````````
+               Exception Handling −
+               Assertions −
+
+  (A)  List of Standard Exceptions −
+       ``````````````````````````````
+              1. Exception
+              2. StopIteration
+              3. SystemExit
+              4. StandardError
+              5. ArithmeticError
+              6. OverflowError
+              7. FloatingPointError
+              8. ZeroDivisionError
+              9. AssertionError
+             10. AttributeError
+             11. EOFError
+             12. ImportError
+             13. KeyboardInterrupt
+             14. LookupError
+             15. IndexError
+             16. KeyError
+             17. NameError
+             18. UnboundLocalError
+             19. EnvironmentError
+             20. IOError
+             21. IOError
+             22. SyntaxError
+             23. IndentationError
+             24. SystemError
+             25. SystemExit
+             26. TypeError
+             27. ValueError
+             28. RuntimeError
+             29. NotImplementedError 
+        
+           (B)   Assertions in Python :
+                 ```````````````````````
+
+           (C)   The assert Statement :
+                 ```````````````````````
+                  1. The syntax for assert is −
+                     Example -
+
+           (D)    What is Exception?
+                  ```````````````````
+
+           (E)    Handling an exception :
+                  ````````````````````````
+                   1. Syntax -
+                      Examples -
+
+           (F)    The except Clause with No Exceptions : 
+                  ``````````````````````````````````````
+           (G)    The except Clause with Multiple Exceptions :
+                  `````````````````````````````````````````````
+           (H)    The try-finally Clause :
+                  `````````````````````````
+           (I)    Argument of an Exception :
+                  ``````````````````````````
+           (J)    Raising an Exceptions :
+                  ```````````````````````
+           (K)    User-Defined Exceptions :
+                  `````````````````````````
+===================== Python Advanced Tutorial =================================
+                      ========================
+
+    1.  ** Python - Classes/Objects : **
+           `````````````````````````
+            (A) Overview of OOP Terminology :
+                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                  1. Class -
+                  2. Class variable -
+                  3. Data member -
+                  4. Function overloading -
+                  5. Instance variable -
+                  6. Inheritance -
+                  7. Instance -
+                  8. Instantiation -
+                  9. Method -
+                 10. Object -
+                 11. Operator overloading -
+
+            (B) Creating Classes :
+                ~~~~~~~~~~~~~~~~~~
+            (C) Creating Instance Objects :
+                ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            (D) Accessing Attributes :
+                ~~~~~~~~~~~~~~~~~~~~~~
+            (E) Built-In Class Attributes : 
+                ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            (F) Destroying Objects (Garbage Collection) :
+                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            (G) Class Inheritance :
+                ~~~~~~~~~~~~~~~~~~~
+                   * Syntax
+
+            (H) Overriding Methods :
+                ~~~~~~~~~~~~~~~~~~~~
+            (I) Base Overloading Methods :
+                ~~~~~~~~~~~~~~~~~~~~~~~~~~
+_______________________________________________________________________________
+    Method                    ||   Description       || Sample Call
+______________________________||_____________________||________________________
+ __init__ ( self [,args...] )     Constructor 
+                                 (with any optional     Sample Call :
+                                  arguments)            obj = className(args)   
+................................................................................
+ __del__( self )                 Destructor,            Sample Call : del obj
+                                 deletes an object       
+................................................................................
+ __repr__( self )                Evaluable string       Sample Call : repr(obj)
+                                 representation
+................................................................................
+ __str__( self )                  Printable             Sample Call : str(obj)
+                                string representation
+.................................................................................
+  	                                                Sample Call : cmp(obj, x)
+ __cmp__ ( self, x )             Object comparison
+.................................................................................
+    
+             (J) Overloading Operators :
+                 ~~~~~~~~~~~~~~~~~~~~~~~
+             (K) Data Hiding :
+                 ~~~~~~~~~~~~~
+                 
+
+    2.  ** Python - Reg Expressions : **
+           `````````````````````````
+            (A) The match Function :
+                `````````````````````
+                                     ______________________________________
+        syntax for this function −  |  re.match(pattern, string, flags=0)  |
+                                    |______________________________________|
+
+                 The Description of the Parameters −                       
+                    1. Pattern
+                    2. string
+                    3. flags
+
+                 Match Object Method & Description -
+                               group(num=0)
+                               groups()
+
+            (B)  The search Function :
+                 ``````````````````````
+                                     ________________________________________
+        syntax for this function −  |  re.search(pattern, string, flags=0)   |
+                                    |________________________________________|
+
+                 The Description of the Parameters −
+                    1. Pattern
+                    2. string
+                    3. flags
+                                  
+                 Match Object Method & Description -
+                           1.  group(num=0)
+                           2.  groups()
+                 
+                Matching Versus Searching :
+                ````````````````````````````
+                Search and Replace :
+                `````````````````````
+                           _________________________________________
+                Syntax -  |  re.sub(pattern, repl, string, max=0)   |
+                          |_________________________________________|
+
+                Regular Expression Modifiers: Option Flags :
+                `````````````````````````````````````````````
+                       Modifier & Description -
+                       `````````````````````````
+                         1. re.I
+                         2. re.L
+                         3. re.M
+                         4. re.S
+                         5. re.U
+                         6. re.X  
+
+               Regular Expression Patterns :
+               ``````````````````````````````
+                     1. ^
+                     2. $
+                     3. .
+                     4. [...]
+                     5. [^...]
+                     6. re*
+                     7. re+
+                     8. re?
+                     9. re{ n}
+                    10. re{ n,}
+                    11. re{ n, m}
+                    12. a| b
+                    13. (re)
+                    14. (?imx)
+                    15. (?-imx)
+                    16. (?: re)
+                    17. (?imx: re)
+                    18. (?-imx: re)
+                    19. (?#...)
+                    20. (?= re)
+                    21. (?! re)
+                    22. (?> re)
+                    23. \w
+                    24. \W
+                    25. \s
+                    26. \S
+                    27. \d
+                    28. \D
+                    29. \A
+                    30. \Z
+                    31. \z
+                    32. \G
+                    33. \b
+                    34. \B
+                    35. \n, \t, etc.
+                    36. \1...\9
+                    37. \10
+     
+              Regular Expression Examples :
+              ``````````````````````````````
+                      *   Literal characters -
+                                   1. python  Match "python"
+                         
+                      *   Character classes -
+                                  1. [Pp]ython
+                                  2. rub[ye]
+                                  3. [aeiou]
+                                  4. [0-9]
+                                  5. [a-z]
+                                  6. [A-Z]
+                                  7. [a-zA-Z0-9]
+                                  8. [^aeiou]
+                                  9. [^0-9]
+                                   
+                     *   Special Character classes -
+                                  1. .
+                                  2. \d
+                                  3. \D
+                                  4. \s
+                                  5. \S
+                                  6. \w
+                                  7. \W
+                                   
+                         *   Repetition Cases -
+                                  1. ruby?
+                                  2. ruby*
+                                  3. ruby+
+                                  4. \d{3}
+                                  5. \d{3,}
+                                  6. \d{3,5}
+          
+                        *   Nongreedy repetition -
+                                   1. <.*>
+                                   2. <.*?>
+                              
+                      *   Grouping with Parentheses -
+                             1. \D\d+
+                             2. (\D\d)+
+                             3. ([Pp]ython(, )?)+ 
+                          
+                     *   Backreferences -
+                           1. ([Pp])ython&\1ails
+                           2. (['"])[^\1]*\1
+                        
+                    *    Alternatives -
+                             1. python|perl
+                             2. rub(y|le))
+                             3. Python(!+|\?)
+                      
+                    *   Anchors -
+                           1. ^Python
+                           2. Python$
+                           3. \APython
+                           4. Python\Z
+                           5. \bPython\b
+                           6. \brub\B 
+                           7. Python(?=!)
+                           8. Python(?!!)
+                         
+            *   Special Syntax with Parentheses -
+                        1. R(?#comment)
+                        2. R(?i)uby
+                        3. R(?i:uby)
+                        4. rub(?:y|le))
+
+    3.  ** Python - CGI Programming : **
+           `````````````````````````
+                    (A) What is CGI?
+                    (B) Web Browsing
+                    (C) CGI Architecture Diagram
+                    (D) Web Server Support and Configuration
+                    (E) First CGI Program
+                    (F) Hello World! This is my first CGI program 
+                    (G) HTTP Header :
+                        `````````````
+                          Few other important HTTP Headers -
+                          ``````````````````````````````````
+                                * Content-type:
+                                * Expires: Date
+                                * Location: URL
+                                * Last-modified: Date
+                                * Content-length: N
+                                * Set-Cookie: String
+
+                    (H) CGI Environment Variables :
+                        ````````````````````````````
+                                * CONTENT_TYPE
+                                * CONTENT_LENGTH
+                                * HTTP_COOKIE
+                                * HTTP_USER_AGENT
+                                * PATH_INFO
+                                * QUERY_STRING
+                                * REMOTE_ADDR
+                                * REMOTE_HOST
+                                * REQUEST_METHOD
+                                * SCRIPT_FILENAME
+                                * SCRIPT_NAME
+                                * SERVER_NAME
+                                * SERVER_SOFTWARE
+
+                    (I) GET and POST Methods :
+                        ```````````````````````
+                             1. Passing Information using GET method
+                             2. Simple URL Example:Get Method
+
+                    (J) Simple FORM Example:GET Method
+                    (K) Passing Information Using POST Method
+                    (L) Passing Checkbox Data to CGI Program
+                    (M) Passing Radio Button Data to CGI Program
+                    (N) Passing Text Area Data to CGI Program
+                    (O) Passing Drop Down Box Data to CGI Program
+                    (P) Using Cookies in CGI :
+                        ``````````````````````
+         Cookies are a plain text data record of 5 variable-length fields −
+         ```````````````````````````````````````````````````````````````````
+                         * Expires −
+                         * Domain −
+                         * Path −
+                         * Secure −
+                         * Name=Value −
+
+                    (Q) Setting up Cookies :
+                        ````````````````````
+                    (R) Retrieving Cookies 
+                        ````````````````````
+                    (S) File Upload Example :
+                        `````````````````````
+                    (T) How To Raise a "File Download" Dialog Box? :
+                        ````````````````````````````````````````````
+
+    4.  ** Python - Database Access : **
+           ``````````````````````````
+                (A)  Python - MySQL Database Access
+                     ```````````````````````````````
+                (B)   What is The Python standard for database interfaces ?
+                      ``````````````````````````````````````````````````````
+         (C)  Python Database API supports a wide range of database servers -
+              ````````````````````````````````````````````````````````````````
+                         1.  GadFly
+                         2.  mSQL
+                         3.  MySQL
+                         4.  PostgreSQL
+                         5.  Microsoft SQL Server 2000
+                         6.  Informix
+                         7.  Interbase
+                         8.  Oracle
+                         9.  Sybase
+
+                   (D)  The DB API -
+                        `````````````
+                            This API includes -
+                            ````````````````````
+                             Importing the API module.
+                             Acquiring a connection with the database.
+                             Issuing SQL statements and stored procedures.
+                             Closing the connection.
+
+                 (E) What is MySQLdb?
+                     `````````````````
+                 (F) How do I Install MySQLdb?
+                     ``````````````````````````
+                 (G) Database Connection -
+                     ``````````````````````
+                 (H) Creating Database Table -
+                     ``````````````````````````
+                 (I) INSERT Operation -
+                     ```````````````````
+                 (J) READ Operation -
+                     ````````````````       
+                        fetchone() −
+                        fetchall() −
+                        rowcount − 
+
+                 (K) Update Operation -
+                     ```````````````````
+                 (L) DELETE Operation -
+                     ``````````````````
+                 (M) Performing Transaction -
+                     `````````````````````````
+                 (N)  Transactions have the following four properties −
+                      ..................................................
+                            Atomicity −  
+                            Consistency − 
+                            Isolation −
+                            Durability −
+
+                  (O) COMMIT Operation -
+                      ```````````````````
+                  (P) ROLLBACK Operation -
+                      `````````````````````
+                  (Q) Disconnecting Database - 
+                      `````````````````````````
+                  (R) Handling Errors -
+                      ``````````````````
+                  (S)  The following Table Lists these Exceptions -
+                       ````````````````````````````````````````````
+                             1. Warning
+                             2. Error
+                             3. InterfaceError
+                             4. DatabaseError
+                             5. DataError
+                             6. OperationalError
+                             7. IntegrityError
+                             8. InternalError
+                             9. ProgrammingError
+                            10. NotSupportedError
+
+    5.  ** Python - Networking : **
+           ````````````````````
+                 Python - Network Programming -
+                 ```````````````````````````````
+                (A) What is Sockets? :
+                    ```````````````````
+                      1.
+                      2.
+                      3.
+                      4.
+                      5.
+                  
+                (B) The socket Module :
+                    ````````````````````
+           * Syntax of The socket.socket() function available in socket module -
+             ````````````````````````````````````````````````````````````````````
+             ____________________________________________________________
+            | s = socket.socket (socket_family, socket_type, protocol=0) |
+            |____________________________________________________________|
+
+                  1. the description of the parameters −
+                     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                         * socket_family −
+                         * socket_type −
+                         * protocol −
+
+                  2. Server Socket Methods -
+                     ~~~~~~~~~~~~~~~~~~~~~~~~
+                          Following is the list of functions required −
+                          ``````````````````````````````````````````````
+                              * s.bind()
+                              * s.listen()
+                              * s.accept()
+
+                   3. Client Socket Methods -
+                      ~~~~~~~~~~~~~~~~~~~~~~~~
+                          * s.connect() - 
+
+                   4. General Socket Methods -
+                      ~~~~~~~~~~~~~~~~~~~~~~~~
+                          * s.recv()
+                          * s.send() 
+                          * s.recvfrom()
+                          * s.sendto()
+                          * s.close()
+                          * socket.gethostname()
+
+                   5. A Simple Server :
+                      ~~~~~~~~~~~~~~~~~~
+
+                   6. A Simple Client :
+                      ~~~~~~~~~~~~~~~~~~
+
+                   7. Python Internet modules :
+                      ~~~~~~~~~~~~~~~~~~~~~~~~~
+
+    6.  ** Python - Sending Email : **
+           ```````````````````````
+                   Python - Sending Email using SMTP :
+                   ````````````````````````````````````
+                  syntax to create one SMTP object :
+                  '''''''''''''''''''''''''''''''''''
+                    the detail of the parameters −
+                    '''''''''''''''''''''''''''''''
+                      *  host −
+                      *  port −
+                      *  local_hostname −
+
+                 which can later be used to send an e-mail −
+                 ''''''''''''''''''''''''''''''''''''''''''''
+                
+                  Sending an HTML e-mail using Python -
+                  ''''''''''''''''''''''''''''''''''''''
+
+                  Sending Attachments as an E-mail -
+                  '''''''''''''''''''''''''''''''''''
+
+    7.  ** Python - Multithreading : **
+           ````````````````````````
+              (A) Python - Multithreaded Programming -
+                  `````````````````````````````````````
+              (B)     Starting a New Thread :
+                      ~~~~~~~~~~~~~~~~~~~~~~~
+              (C)     The Threading Module :
+                      ~~~~~~~~~~~~~~~~~~~~~~
+                         1. Methods of the Thread Module -
+                            '''''''''''''''''''''''''''''''
+                                  * threading.activeCount() −
+                                  * threading.currentThread() −
+                                  * threading.enumerate() −
+
+               2. The Methods provided by the Thread class are as follows −
+                  ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+                                 *  run() -
+                                 *  start() −
+                                 *  join([time]) −
+                                 *  isAlive() −
+                                 *  getName() −
+                                 *  setName() −
+
+                      3.  Creating Thread Using Threading Module -
+                          '''''''''''''''''''''''''''''''''''''''''
+                      4.  Synchronizing Threads -
+                          ''''''''''''''''''''''''
+                      5.  Multithreaded Priority Queue -
+                          '''''''''''''''''''''''''''''''
+                                     following methods to control the Queue −
+                                     .........................................
+                                          * get() −
+                                          * put() −
+                                          * qsize() −
+                                          * empty() −
+                                          * full() −
+                                   
+    8.  ** Python - XML Processing : ** 
+           ````````````````````````
+                (A) What is XML?
+                    ~~~~~~~~~~~~
+                (B) XML Parser Architectures and APIs :
+                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                       Two most basic and broadly used APIs to XML Data -
+                       ```````````````````````````````````````````````````
+                          1. Simple API for XML (SAX) −
+                          2. Document Object Model (DOM) API −
+
+                (C) Parsing XML with SAX APIs :
+                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                      (1.) The make_parser Method -
+                           """""""""""""""""""""""""
+   The parser object created will be of the first parser type the system finds -
+   """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+                            _______________________________________
+                           | xml.sax.make_parser( [parser_list] )  |
+                           |_______________________________________|
+                                  detail of the parameters −
+                                       * parser_list
+
+                      (2.) The parse Method -
+                           """""""""""""""""""
+   Following method creates a SAX parser and uses it to parse a document -
+   """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+             ____________________________________________________________
+            |  xml.sax.parse( xmlfile, contenthandler[, errorhandler])   |
+            |____________________________________________________________|
+                                 detail of the parameters −
+                                       * xmlfile −
+                                       * contenthandler −
+                                       * errorhandler −
+
+                       (3.) The parseString Method -
+                            """""""""""""""""""""""""
+  one more method to create a SAX parser and to parse the specified XML string -
+  """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+      ____________________________________________________________________
+     |   xml.sax.parseString(xmlstring, contenthandler[, errorhandler])   |
+     |____________________________________________________________________|
+                                  detail of the parameters −
+                                       * xmlstring −
+                                       * contenthandler −
+                                       * errorhandler −
+
+                (D) Parsing XML with DOM APIs :
+                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+    9.  ** Python - GUI Programming : **
+           ``````````````````````````
+ (A)  Python provides options for developing graphical user interfaces (GUIs)-
+      """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+                        * Tkinter −
+                        * wxPython −
+                        * JPython −
+               
+         (B)  Tkinter Programming :
+              ``````````````````````
+      (C)  To Create a GUI application using Tkinter -
+           """"""""""""""""""""""""""""""""""""""""""""
+            * Import the Tkinter module.
+            * Create the GUI application main window.
+       * Add one or more of the above-mentioned widgets to the GUI application.
+       * Enter the main event loop to take action against each event triggered by the user.
+          (D) Tkinter Widgets :
+              ``````````````````
+     currently 15 types of widgets in Tkinter -
+     -------------------------------------------
+                  1. Button 
+                  2. Canvas
+                  3. Checkbutton
+                  4. Entry
+                  5. Frame
+                  6. Label
+                  7. Listbox
+                  8. Menubutton
+                  9. Menu
+                 10. Message
+                 11. Radiobutton
+                 12. Scale
+                 13. Scrollbar
+                 14. Text
+                 15. TopLevel
+                 16. Spinbox
+                 17. PanedWindow
+                 18. LabelFrame
+                 19. tkMessageBox
+        
+    (E) widgets in detail − 
+        ````````````````````
+     Standard attributes -
+     ----------------------
+  some of their common attributes.such as sizes, colors and fonts are specified -
+  """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+                * Dimensions
+                * Colors
+                * Fonts
+                * Anchors
+                * Relief styles
+                * Bitmaps
+                * Cursors
+     
+     (F)  Geometry Management :
+          """"""""""""""""""""""
+  Tkinter exposes the following geometry manager classes: pack, grid, and place -
+  ```````````````````````````````````````````````````````````````````````````````             
+            * The pack() Method
+            * The grid() Method
+            * The place() Method
+
+   10.  ** Python - Further Extensions : **
+           ```````````````````````````
