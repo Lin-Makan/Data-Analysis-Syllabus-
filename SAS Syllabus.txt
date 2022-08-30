@@ -1,0 +1,86 @@
+
+  SAS Syllabus :
+  ================
+
+       A. SAS :
+          ======
+            Introduction to SAS Programming :
+            =================================
+              * Statistical Analysis System (SAS) :
+              * Use of SAS :
+              * Types of SAS software :
+                    1. SAS for Windows
+                    2. SAS EG (Enterprise Guide)
+                    3. SAS Enterprise Miner (EM)
+                    4. SAS Stat Software
+                 
+        * SAS Libraries :
+          =================
+
+        * SAS programming workflow :
+          =========================== 
+                                    Step 1 : Access Data
+                                    Step 2 : Explore Data
+                                    Step 3 : Prepare Data
+                                    Step 4 : Analyze and Report Data
+                                    Step 5 : Explore Results
+               
+        * There's 200+ Components present in SAS, Some popular Components Are :
+          ======================================================================
+                                 1. Base SAS
+                                 2. SAS/GRAPH
+                                 3. SAS/STAT
+                                 4. SAS/INSIGHT
+                                 5. SAS/PH
+                                 6. SAS/ETS etc
+          
+    *** SAS Tutorial *** :
+        ============
+
+   1. SAS Tutorial
+   2. SAS Introduction
+   3. SAS Features
+   4. SAS Architecture
+   5. Advantage & Disadvantage
+   6. SAS Terminology
+   7. SAS vs R vs Python
+   8. SAS vs R
+   9. SAS Applications
+  10. Use SAS without Download & Install
+
+    *** Data Set Operations *** :
+        ===================
+
+   1. PROC Sorting in SAS
+   2. Multiple Variable Sorting
+   3. Merge Data Sets open linkRead Raw Data Set
+   4. Write Data Set
+   5. Concatenate Multiple Data Set
+   6. Sub-setting of data set
+   7. Format Data Sets
+   8. SQL Operations
+   9. Output Delivery System
+
+   *** SAS Programming *** :
+       ===============
+
+   1. SAS User Interface
+   2. SAS Program Structure
+   3. SAS Data Set
+   4. SAS Variables
+   5. SAS String
+   6. SAS Array
+   7. SAS Operators
+   8. Numeric Data Format
+   9. SAS Loops
+  10. SAS Decision Making
+  11. SAS Functions
+  12. SAS Macro
+
+   *** Statistical Operations *** :
+       ======================
+
+  1. Frequency Distribution
+  2. Standard Deviation
+  3. Arithmetic Mean
+  4. Cross Tabulation

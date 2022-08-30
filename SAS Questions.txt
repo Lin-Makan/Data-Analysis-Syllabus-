@@ -1,0 +1,2402 @@
+
+  SAS Questions :
+  ================
+
+       A. SAS :
+          ======
+
+            Introduction to SAS Programming :
+            =================================
+           <<<<<<<<< SAS >>>>>>>>>
+__________________________________________________
+     SAS                                          |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* SAS
+                                                                                        
+2) Definition of SAS ?
+----------------------
+*
+ 
+3) What is SAS About ?
+----------------------
+*
+*
+
+4) What does SAS Do ?
+---------------------
+*
+*
+
+5) Advantages/Benefits of SAS :
+-------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of SAS :
+----------------------------------
+*
+*
+*  
+
+7) Examples of SAS :
+--------------------
+*
+*
+_______________________________________________________________________________
+
+              * Types of SAS software :
+                ========================
+   1. <<<<<<<<< SAS for Windows >>>>>>>>>
+__________________________________________________
+         SAS for Windows                          |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* SAS for Windows
+                                                                                        
+2) Definition of SAS for Windows ?
+----------------------------------
+*
+ 
+3) What is SAS for Windows About ?
+----------------------------------
+*
+*
+
+4) What does SAS for Windows Do ?
+---------------------------------
+*
+*
+
+5) Advantages/Benefits of SAS for Windows :
+-------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of SAS for Windows :
+----------------------------------------------
+*
+*
+*  
+
+7) Examples of SAS for Windows :
+--------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 2. <<<<<<<<< SAS EG (Enterprise Guide) >>>>>>>>>
+__________________________________________________
+     SAS EG (Enterprise Guide)                    |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* SAS EG (Enterprise Guide)
+                                                                                        
+2) Definition of SAS EG (Enterprise Guide) ?
+--------------------------------------------
+*
+ 
+3) What is SAS EG (Enterprise Guide) About ?
+--------------------------------------------
+*
+*
+
+4) What does SAS EG (Enterprise Guide) Do ?
+-------------------------------------------
+*
+*
+
+5) Advantages/Benefits of SAS EG (Enterprise Guide) :
+-----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of SAS EG (Enterprise Guide) :
+--------------------------------------------------------
+*
+*
+*  
+
+7) Examples of SAS EG (Enterprise Guide) :
+------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 3. <<<<<<<<< SAS Enterprise Miner (EM) >>>>>>>>>
+__________________________________________________
+     SAS Enterprise Miner (EM)                    |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* SAS Enterprise Miner (EM)
+                                                                                        
+2) Definition of SAS Enterprise Miner (EM) ?
+--------------------------------------------
+*
+ 
+3) What is SAS Enterprise Miner (EM) About ?
+--------------------------------------------
+*
+*
+
+4) What does SAS Enterprise Miner (EM) Do ?
+-------------------------------------------
+*
+*
+
+5) Advantages/Benefits of SAS Enterprise Miner (EM) :
+-----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of SAS Enterprise Miner (EM) :
+--------------------------------------------------------
+*
+*
+*  
+
+7) Examples of SAS Enterprise Miner (EM) :
+------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 4. <<<<<<<<< SAS Stat Software >>>>>>>>>
+__________________________________________________
+     SAS Stat Software                            |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* SAS Stat Software
+                                                                                        
+2) Definition of SAS Stat Software ?
+------------------------------------
+*
+ 
+3) What is SAS Stat Software About ?
+------------------------------------
+*
+*
+
+4) What does SAS Stat Software Do ?
+-----------------------------------
+*
+*
+
+5) Advantages/Benefits of SAS Stat Software :
+---------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of SAS Stat Software :
+------------------------------------------------
+*
+*
+*  
+
+7) Examples of SAS Stat Software :
+----------------------------------
+*
+*
+_________________________________________________________________________________
+
+        * SAS Libraries :
+          ================
+           <<<<<<<<< SAS Libraries >>>>>>>>>
+__________________________________________________
+     SAS Libraries                                |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* SAS Libraries
+                                                                                        
+2) Definition of SAS Libraries ?
+--------------------------------
+*
+ 
+3) What is SAS Libraries About ?
+--------------------------------
+*
+*
+
+4) What does SAS Libraries Do ?
+-------------------------------
+*
+*
+
+5) Advantages/Benefits of SAS Libraries :
+-----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of SAS Libraries :
+--------------------------------------------
+*
+*
+*  
+
+7) Examples of SAS Libraries :
+------------------------------
+*
+*
+_______________________________________________________________________________
+
+        * SAS programming workflow :
+          ===========================
+          <<<<<<<<< SAS programming workflow >>>>>>>>>
+
+                Step 1 : Access Data
+                Step 2 : Explore Data
+                Step 3 : Prepare Data
+                Step 4 : Analyze and Report Data
+                Step 5 : Explore Results
+__________________________________________________
+     SAS programming workflow                     |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* SAS programming workflow
+                                                                                        
+2) Definition of SAS programming workflow ?
+-------------------------------------------
+*
+ 
+3) What is SAS programming workflow About ?
+-------------------------------------------
+*
+*
+
+4) What does SAS programming workflow Do ?
+------------------------------------------
+*
+*
+
+5) Advantages/Benefits of SAS programming workflow :
+----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of SAS programming workflow :
+-------------------------------------------------------
+*
+*
+*  
+
+7) Examples of SAS programming workflow :
+-----------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 1. <<<<<<<<< Step 1 : Access Data >>>>>>>>>
+__________________________________________________
+         Step 1 : Access Data                     |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Access Data
+                                                                                        
+2) Definition of Access Data ?
+------------------------------
+*
+ 
+3) What is Access Data About ?
+------------------------------
+*
+*
+
+4) What does Access Data Do ?
+-----------------------------
+*
+*
+
+5) Advantages/Benefits of Access Data :
+---------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Access Data :
+------------------------------------------
+*
+*
+*  
+
+7) Examples of Access Data :
+----------------------------
+*
+*
+_______________________________________________________________________________
+
+ 2. <<<<<<<<< Step 2 : Explore Data >>>>>>>>>
+__________________________________________________
+     Step 2 : Explore Data                        |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Step 2 : Explore Data
+                                                                                        
+2) Definition of Explore Data ?
+-------------------------------
+*
+ 
+3) What is Explore Data About ?
+-------------------------------
+*
+*
+
+4) What does Explore Data Do ?
+------------------------------
+*
+*
+
+5) Advantages/Benefits of Explore Data :
+----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Explore Data :
+-------------------------------------------
+*
+*
+*  
+
+7) Examples of Explore Data :
+-----------------------------
+*
+*
+_______________________________________________________________________________
+
+ 3. <<<<<<<<< Step 3 : Prepare Data >>>>>>>>>
+__________________________________________________
+     Step 3 : Prepare Data                        |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Step 3 : Prepare Data
+                                                                                        
+2) Definition of Prepare Data ?
+-------------------------------
+*
+ 
+3) What is Prepare Data About ?
+-------------------------------
+*
+*
+
+4) What does Prepare Data Do ?
+------------------------------
+*
+*
+
+5) Advantages/Benefits of Prepare Data :
+----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Prepare Data :
+-------------------------------------------
+*
+*
+*  
+
+7) Examples of Prepare Data :
+-----------------------------
+*
+*
+_______________________________________________________________________________
+
+ 4. <<<<<<<<< Step 4 : Analyze and Report Data >>>>>>>>>
+__________________________________________________
+     Step 4 : Analyze and Report Data             |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Step 4 : Analyze and Report Data
+                                                                                        
+2) Definition of Analyze and Report Data ?
+------------------------------------------
+*
+ 
+3) What is Analyze and Report Data About ?
+------------------------------------------
+*
+*
+
+4) What does Analyze and Report Data Do ?
+-----------------------------------------
+*
+*
+
+5) Advantages/Benefits of Analyze and Report Data :
+---------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Analyze and Report Data :
+------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Analyze and Report Data :
+----------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 5. <<<<<<<<< Step 5 : Explore Results >>>>>>>>>
+__________________________________________________
+      Step 5 : Explore Results                    |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Step 5 : Explore Results
+                                                                                        
+2) Definition of Explore Results ?
+----------------------------------
+*
+ 
+3) What is Explore Results About ?
+----------------------------------
+*
+*
+
+4) What does Explore Results Do ?
+---------------------------------
+*
+*
+
+5) Advantages/Benefits of Explore Results :
+-------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Explore Results :
+----------------------------------------------
+*
+*
+*  
+
+7) Examples of Explore Results :
+--------------------------------
+*
+*
+__________________________________________________________________________________
+
+* There's 200+ Components present in SAS, Some popular Components Are :
+  ======================================================================
+           1. <<<<<<<<< Base SAS >>>>>>>>>
+__________________________________________________
+         Base SAS                                 |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Base SAS
+                                                                                        
+2) Definition of Base SAS ?
+---------------------------
+*
+ 
+3) What is Base SAS About ?
+---------------------------
+*
+*
+
+4) What does Base SAS Do ?
+--------------------------
+*
+*
+
+5) Advantages/Benefits of Base SAS :
+------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Base SAS :
+---------------------------------------
+*
+*
+*  
+
+7) Examples of Base SAS :
+-------------------------
+*
+*
+_______________________________________________________________________________
+
+ 2. <<<<<<<<< SAS/GRAPH >>>>>>>>>
+__________________________________________________
+     SAS/GRAPH                                    |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* SAS/GRAPH
+                                                                                        
+2) Definition of SAS/GRAPH ?
+----------------------------
+*
+ 
+3) What is SAS/GRAPH About ?
+----------------------------
+*
+*
+
+4) What does SAS/GRAPH Do ?
+---------------------------
+*
+*
+
+5) Advantages/Benefits of SAS/GRAPH :
+-------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of SAS/GRAPH :
+----------------------------------------
+*
+*
+*  
+
+7) Examples of SAS/GRAPH :
+--------------------------
+*
+*
+_______________________________________________________________________________
+
+ 3. <<<<<<<<< SAS/STAT >>>>>>>>>
+__________________________________________________
+     SAS/STAT                                     |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* SAS/STAT
+                                                                                        
+2) Definition of SAS/STAT ?
+---------------------------
+*
+ 
+3) What is SAS/STAT About ?
+---------------------------
+*
+*
+
+4) What does SAS/STAT Do ?
+--------------------------
+*
+*
+
+5) Advantages/Benefits of SAS/STAT :
+------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of SAS/STAT :
+---------------------------------------
+*
+*
+*  
+
+7) Examples of SAS/STAT :
+-------------------------
+*
+*
+__________________________________________________________________________________
+
+ 4. <<<<<<<<< SAS/INSIGHT >>>>>>>>>
+__________________________________________________
+     SAS/INSIGHT                                  |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* SAS/INSIGHT
+                                                                                        
+2) Definition of SAS/INSIGHT ?
+------------------------------
+*
+ 
+3) What is SAS/INSIGHT About ?
+------------------------------
+*
+*
+
+4) What does SAS/INSIGHT Do ?
+-----------------------------
+*
+*
+
+5) Advantages/Benefits of SAS/INSIGHT :
+---------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of SAS/INSIGHT :
+------------------------------------------
+*
+*
+*  
+
+7) Examples of SAS/INSIGHT :
+----------------------------
+*
+*
+__________________________________________________________________________________
+
+ 5. <<<<<<<<< SAS/PH >>>>>>>>>
+__________________________________________________
+      SAS/PH                                      |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* SAS/PH
+                                                                                        
+2) Definition of SAS/PH ?
+-------------------------
+*
+ 
+3) What is SAS/PH About ?
+-------------------------
+*
+*
+
+4) What does SAS/PH Do ?
+------------------------
+*
+*
+
+5) Advantages/Benefits of SAS/PH :
+----------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of SAS/PH :
+-------------------------------------
+*
+*
+*  
+
+7) Examples of SAS/PH :
+-----------------------
+*
+*
+__________________________________________________________________________________
+
+ 6. <<<<<<<<< SAS/ETS >>>>>>>>>
+__________________________________________________
+        SAS/ETS                                   |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* SAS/ETS
+                                                                                        
+2) Definition of SAS/ETS ?
+--------------------------
+*
+ 
+3) What is SAS/ETS About ?
+--------------------------
+*
+*
+
+4) What does SAS/ETS Do ?
+-------------------------
+*
+*
+
+5) Advantages/Benefits of SAS/ETS :
+-----------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of SAS/ETS :
+--------------------------------------
+*
+*
+*  
+
+7) Examples of SAS/ETS :
+------------------------
+*
+*
+_________________________________________________________________________________
+
+    *** SAS Tutorial *** :
+        ============
+
+ 1. <<<<<<<<< SAS Tutorial >>>>>>>>>
+              ============
+__________________________________________________
+                                                  |
+        SAS Tutorial                              |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* SAS Tutorial
+                                                                                        
+2) Definition of SAS Tutorial ?
+-------------------------------
+*
+ 
+3) What is SAS Tutorial About ?
+-------------------------------
+*
+*
+
+4) What does SAS Tutorial Do ?
+------------------------------
+*
+*
+
+5) Advantages/Benefits of SAS Tutorial :
+----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of SAS Tutorial :
+-------------------------------------------
+*
+*
+*  
+
+7) Examples of SAS Tutorial :
+-----------------------------
+*
+*
+_______________________________________________________________________________
+
+ 2. <<<<<<<<< SAS Introduction >>>>>>>>>
+__________________________________________________
+   SAS Introduction                               |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* SAS Introduction
+                                                                                        
+2) Definition of SAS Introduction ?
+-----------------------------------
+*
+ 
+3) What is SAS Introduction About ?
+-----------------------------------
+*
+*
+
+4) What does SAS Introduction Do ?
+----------------------------------
+*
+*
+
+5) Advantages/Benefits of SAS Introduction :
+--------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of SAS Introduction :
+-----------------------------------------------
+*
+*
+*  
+
+7) Examples of SAS Introduction :
+---------------------------------
+*
+*
+________________________________________________________________________________
+
+ 3. <<<<<<<<< SAS Features >>>>>>>>>
+__________________________________________________
+                                                  |
+       SAS Features                               |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* SAS Features
+                                                                                        
+2) Definition of SAS Features ?
+-------------------------------
+*
+ 
+3) What is SAS Features About ?
+-------------------------------
+*
+*
+
+4) What does SAS Features Do ?
+------------------------------
+*
+*
+
+5) Advantages/Benefits of SAS Features :
+----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of SAS Features :
+-------------------------------------------
+*
+*
+*  
+
+7) Examples of SAS Features :
+-----------------------------
+*
+*
+_______________________________________________________________________________
+
+ 4. <<<<<<<<< SAS Architecture >>>>>>>>>
+__________________________________________________
+                                                  |
+      SAS Architecture                            |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* SAS Architecture
+                                                                                        
+2) Definition of SAS Architecture ?
+-----------------------------------
+*
+ 
+3) What is SAS Architecture About ?
+-----------------------------------
+*
+*
+
+4) What does SAS Architecture Do ?
+----------------------------------
+*
+*
+
+5) Advantages/Benefits of SAS Architecture :
+--------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of SAS Architecture :
+-----------------------------------------------
+*
+*
+*  
+
+7) Examples of SAS Architecture :
+---------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 5. <<<<<<<<< Advantage & Disadvantage >>>>>>>>>
+__________________________________________________
+                                                  |
+        Advantage & Disadvantage                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Advantage & Disadvantage
+                                                                                        
+2) Definition of Advantage & Disadvantage ?
+-------------------------------------------
+*
+ 
+3) What is Advantage & Disadvantage About ?
+-------------------------------------------
+*
+*
+
+4) What does Advantage & Disadvantage Do ?
+------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Advantage & Disadvantage :
+----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Advantage & Disadvantage :
+-------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Advantage & Disadvantage :
+-----------------------------------------
+*
+*
+________________________________________________________________________________
+
+ 6. <<<<<<<<< SAS Terminology >>>>>>>>>
+__________________________________________________
+                                                  |
+         SAS Terminology                          |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* SAS Terminology
+                                                                                        
+2) Definition of SAS Terminology ?
+----------------------------------
+*
+ 
+3) What is SAS Terminology About ?
+----------------------------------
+*
+*
+
+4) What does SAS Terminology Do ?
+---------------------------------
+*
+*
+
+5) Advantages/Benefits of SAS Terminology :
+-------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of SAS Terminology :
+----------------------------------------------
+*
+*
+*  
+
+7) Examples of SAS Terminology :
+--------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 7. <<<<<<<<< SAS vs R vs Python >>>>>>>>>
+__________________________________________________
+     SAS vs R vs Python                           |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* SAS vs R vs Python
+                                                                                        
+2) Definition of SAS vs R vs Python ?
+-------------------------------------
+*
+ 
+3) What is SAS vs R vs Python About ?
+-------------------------------------
+*
+*
+
+4) What does SAS vs R vs Python Do ?
+------------------------------------
+*
+*
+
+5) Advantages/Benefits of SAS vs R vs Python :
+----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of SAS vs R vs Python :
+-------------------------------------------------
+*
+*
+*  
+
+7) Examples of SAS vs R vs Python :
+-----------------------------------
+*
+*
+_________________________________________________________________________________
+
+ 8. <<<<<<<<< SAS vs R >>>>>>>>>
+__________________________________________________
+                                                  |
+        SAS vs R                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* SAS vs R
+                                                                                        
+2) Definition of SAS vs R ?
+---------------------------
+*
+ 
+3) What is SAS vs R About ?
+---------------------------
+*
+*
+
+4) What does SAS vs R Do ?
+--------------------------
+*
+*
+
+5) Advantages/Benefits of SAS vs R :
+------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of SAS vs R :
+---------------------------------------
+*
+*
+*  
+
+7) Examples of SAS vs R :
+-------------------------
+*
+*
+________________________________________________________________________________
+
+ 9. <<<<<<<<< SAS Applications >>>>>>>>>
+__________________________________________________
+                                                  |
+       SAS Applications                           |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* SAS Applications
+                                                                                        
+2) Definition of SAS Applications ?
+-----------------------------------
+*
+ 
+3) What is SAS Applications About ?
+-----------------------------------
+*
+*
+
+4) What does SAS Applications Do ?
+----------------------------------
+*
+*
+
+5) Advantages/Benefits of SAS Applications :
+--------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of SAS Applications :
+-----------------------------------------------
+*
+*
+*  
+
+7) Examples of SAS Applications :
+---------------------------------
+*
+*
+__________________________________________________________________________________
+
+ 10. <<<<<<<<< Use SAS without Download & Install >>>>>>>>>
+__________________________________________________
+                                                  |
+        Use SAS without Download & Install        |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Use SAS without Download & Install
+                                                                                        
+2) Definition of Use SAS without Download & Install ?
+-----------------------------------------------------
+*
+ 
+3) What is Use SAS without Download & Install About ?
+-----------------------------------------------------
+*
+*
+
+4) What does Use SAS without Download & Install Do ?
+----------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Use SAS without Download & Install :
+--------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Use SAS without Download & Install :
+-----------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Use SAS without Download & Install :
+---------------------------------------------------
+*
+*
+__________________________________________________________________________________
+
+    *** Data Set Operations *** :
+        ===================
+     <<<<<<<<< Data Set Operations >>>>>>>>>
+               ===================
+__________________________________________________
+                                                  |
+    Data Set Operations                           |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Data Set Operations
+                                                                                        
+2) Definition of Data Set Operations ?
+--------------------------------------
+*
+ 
+3) What is Data Set Operations About ?
+--------------------------------------
+*
+*
+
+4) What does Data Set Operations Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of Data Set Operations :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Data Set Operations :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of Data Set Operations :
+------------------------------------
+*
+*
+__________________________________________________________________________________
+
+  1. <<<<<<<<< PROC Sorting in SAS >>>>>>>>>
+__________________________________________________
+                                                  |
+         PROC Sorting in SAS                      |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* PROC Sorting in SAS
+                                                                                        
+2) Definition of PROC Sorting in SAS ?
+--------------------------------------
+*
+ 
+3) What is PROC Sorting in SAS About ?
+--------------------------------------
+*
+*
+
+4) What does PROC Sorting in SAS Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of PROC Sorting in SAS :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of PROC Sorting in SAS :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of PROC Sorting in SAS :
+------------------------------------
+*
+*
+__________________________________________________________________________________
+
+ 2. <<<<<<<<< Multiple Variable Sorting >>>>>>>>>
+__________________________________________________
+                                                  |
+       Multiple Variable Sorting                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Multiple Variable Sorting
+                                                                                        
+2) Definition of Multiple Variable Sorting ?
+--------------------------------------------
+*
+ 
+3) What is Multiple Variable Sorting About ?
+--------------------------------------------
+*
+*
+
+4) What does Multiple Variable Sorting Do ?
+-------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Multiple Variable Sorting :
+-----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Multiple Variable Sorting :
+--------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Multiple Variable Sorting :
+------------------------------------------
+*
+*
+__________________________________________________________________________________
+
+ 3. <<<<<<<<< Merge Data Sets open linkRead Raw Data Set >>>>>>>>>
+__________________________________________________
+                                                  |
+    Merge Data Sets open linkRead Raw Data Set    |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Merge Data Sets open linkRead Raw Data Set
+                                                                                        
+2) Definition of Merge Data Sets open linkRead Raw Data Set ?
+-------------------------------------------------------------
+*
+ 
+3) What is Merge Data Sets open linkRead Raw Data Set About ?
+-------------------------------------------------------------
+*
+*
+
+4) What does Merge Data Sets open linkRead Raw Data Set Do ?
+------------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Merge Data Sets open linkRead Raw Data Set :
+----------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Merge Data Sets open linkRead Raw Data Set :
+-------------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Merge Data Sets open linkRead Raw Data Set :
+-----------------------------------------------------------
+*
+*
+________________________________________________________________________________
+
+ 4. <<<<<<<<< Write Data Set >>>>>>>>>
+__________________________________________________
+   Write Data Set                                 |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Write Data Set
+                                                                                        
+2) Definition of Write Data Set ?
+---------------------------------
+*
+ 
+3) What is Write Data Set About ?
+---------------------------------
+*
+*
+
+4) What does Write Data Set Do ?
+--------------------------------
+*
+*
+
+5) Advantages/Benefits of Write Data Set :
+------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Write Data Set :
+---------------------------------------------
+*
+*
+*  
+
+7) Examples of Write Data Set :
+-------------------------------
+*
+*
+__________________________________________________________________________________
+
+ 5. <<<<<<<<< Concatenate Multiple Data Set >>>>>>>>>
+__________________________________________________
+     Concatenate Multiple Data Set                |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Concatenate Multiple Data Set
+                                                                                        
+2) Definition of Concatenate Multiple Data Set ?
+------------------------------------------------
+*
+ 
+3) What is Concatenate Multiple Data Set About ?
+------------------------------------------------
+*
+*
+
+4) What does Concatenate Multiple Data Set Do ?
+-----------------------------------------------
+* 
+*
+
+5) Advantages/Benefits of Concatenate Multiple Data Set :
+---------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Concatenate Multiple Data Set :
+------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Concatenate Multiple Data Set :
+----------------------------------------------
+*
+*
+_________________________________________________________________________________
+
+ 6. <<<<<<<<< Sub-setting of data set >>>>>>>>>
+__________________________________________________
+                                                  |
+        Sub-setting of data set                   |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Sub-setting of data set
+                                                                                        
+2) Definition of Sub-setting of data set ?
+------------------------------------------
+*
+ 
+3) What is Sub-setting of data set About ?
+------------------------------------------
+*
+*
+
+4) What does Sub-setting of data set Do ?
+-----------------------------------------
+*
+*
+
+5) Advantages/Benefits of Sub-setting of data set :
+---------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Sub-setting of data set :
+------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Sub-setting of data set :
+----------------------------------------
+*
+*
+__________________________________________________________________________________
+
+ 7. <<<<<<<<< Format Data Sets >>>>>>>>>
+__________________________________________________
+                                                  |
+      Format Data Sets                            |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Format Data Sets
+                                                                                        
+2) Definition of Format Data Sets ?
+-----------------------------------
+*
+ 
+3) What is Format Data Sets About ?
+-----------------------------------
+*
+*
+
+4) What does Format Data Sets Do ?
+----------------------------------
+*
+*
+
+5) Advantages/Benefits of Format Data Sets :
+--------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Format Data Sets :
+-----------------------------------------------
+*
+*
+*  
+
+7) Examples of Format Data Sets :
+---------------------------------
+*
+*
+__________________________________________________________________________________
+
+ 8. <<<<<<<<< SQL Operations >>>>>>>>>
+__________________________________________________
+                                                  |
+        SQL Operations                            |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* SQL Operations
+                                                                                        
+2) Definition of SQL Operations ?
+---------------------------------
+*
+ 
+3) What is SQL Operations About ?
+---------------------------------
+*
+*
+
+4) What does SQL Operations Do ?
+--------------------------------
+*
+*
+
+5) Advantages/Benefits of SQL Operations :
+------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of SQL Operations :
+---------------------------------------------
+*
+*
+*  
+
+7) Examples of SQL Operations :
+-------------------------------
+*
+*
+________________________________________________________________________________
+
+ 9. <<<<<<<<< Output Delivery System >>>>>>>>>
+__________________________________________________
+                                                  |
+         Output Delivery System                   |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Output Delivery System
+                                                                                        
+2) Definition of Output Delivery System ?
+-----------------------------------------
+*
+ 
+3) What is Output Delivery System About ?
+-----------------------------------------
+*
+*
+
+4) What does Output Delivery System Do ?
+----------------------------------------
+*
+*
+
+5) Advantages/Benefits of Output Delivery System :
+--------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Output Delivery System :
+-----------------------------------------------------
+*
+*
+*  
+
+7) Examples of Output Delivery System :
+---------------------------------------
+*
+*
+__________________________________________________________________________________
+
+   *** SAS Programming *** :
+       ===============
+    <<<<<<<<< SAS Programming >>>>>>>>>
+              ===============
+__________________________________________________
+                                                  |
+   SAS Programming                                |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* SAS Programming
+                                                                                        
+2) Definition of SAS Programming ?
+----------------------------------
+*
+ 
+3) What is SAS Programming About ?
+----------------------------------
+*
+*
+
+4) What does SAS Programming Do ?
+---------------------------------
+*
+*
+
+5) Advantages/Benefits of SAS Programming :
+-------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of SAS Programming :
+----------------------------------------------
+*
+*
+*  
+
+7) Examples of SAS Programming :
+--------------------------------
+*
+*
+__________________________________________________________________________________
+
+ 2. <<<<<<<<< SAS Program Structure >>>>>>>>>
+__________________________________________________
+                                                  |
+      SAS Program Structure                       |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* SAS Program Structure
+                                                                                        
+2) Definition of SAS Program Structure ?
+----------------------------------------
+*
+ 
+3) What is SAS Program Structure About ?
+----------------------------------------
+*
+*
+
+4) What does SAS Program Structure Do ?
+---------------------------------------
+*
+*
+
+5) Advantages/Benefits of SAS Program Structure :
+-------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of SAS Program Structure :
+----------------------------------------------------
+*
+*
+*  
+
+7) Examples of SAS Program Structure :
+--------------------------------------
+*
+*
+__________________________________________________________________________________
+
+ 3. <<<<<<<<< SAS Data Set >>>>>>>>>
+__________________________________________________
+                                                  |
+      SAS Data Set                                |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* SAS Data Set
+                                                                                        
+2) Definition of SAS Data Set ?
+-------------------------------
+*
+ 
+3) What is SAS Data Set About ?
+-------------------------------
+*
+*
+
+4) What does SAS Data Set Do ?
+------------------------------
+*
+*
+
+5) Advantages/Benefits of SAS Data Set :
+----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of SAS Data Set :
+-------------------------------------------
+*
+*
+*  
+
+7) Examples of SAS Data Set :
+-----------------------------
+*
+*
+__________________________________________________________________________________
+
+ 4. <<<<<<<<< SAS Variables >>>>>>>>>
+__________________________________________________
+                                                  |
+         SAS Variables                            |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* SAS Variables
+                                                                                        
+2) Definition of SAS Variables ?
+--------------------------------
+*
+ 
+3) What is SAS Variables About ?
+--------------------------------
+*
+*
+
+4) What does SAS Variables Do ?
+-------------------------------
+*
+*
+
+5) Advantages/Benefits of SAS Variables :
+-----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of SAS Variables :
+--------------------------------------------
+*
+*
+*  
+
+7) Examples of SAS Variables :
+------------------------------
+*
+*
+_________________________________________________________________________________
+
+ 5. <<<<<<<<< SAS String >>>>>>>>>
+__________________________________________________
+                                                  |
+        SAS String                                |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* SAS String
+                                                                                        
+2) Definition of SAS String ?
+-----------------------------
+*
+ 
+3) What is SAS String About ?
+-----------------------------
+*
+*
+
+4) What does SAS String Do ?
+----------------------------
+*
+*
+
+5) Advantages/Benefits of SAS String :
+--------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of SAS String :
+-----------------------------------------
+*
+*
+*  
+
+7) Examples of SAS String :
+---------------------------
+*
+*
+__________________________________________________________________________________
+
+ 6. <<<<<<<<< SAS Array >>>>>>>>>
+__________________________________________________
+    SAS Array                                     |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* SAS Array
+                                                                                        
+2) Definition of SAS Array ?
+----------------------------
+*
+ 
+3) What is SAS Array About ?
+----------------------------
+*
+*
+
+4) What does SAS Array Do ?
+---------------------------
+*
+*
+
+5) Advantages/Benefits of SAS Array :
+-------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of SAS Array :
+----------------------------------------
+*
+*
+*  
+
+7) Examples of SAS Array :
+--------------------------
+*
+*
+_________________________________________________________________________________
+
+ 7. <<<<<<<<< SAS Operators >>>>>>>>>
+__________________________________________________
+                                                  |
+      SAS Operators                               |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* SAS Operators
+                                                                                        
+2) Definition of SAS Operators ?
+--------------------------------
+*
+ 
+3) What is SAS Operators About ?
+--------------------------------
+*
+*
+
+4) What does SAS Operators Do ?
+-------------------------------
+*
+*
+
+5) Advantages/Benefits of SAS Operators :
+-----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of SAS Operators :
+--------------------------------------------
+*
+*
+*  
+
+7) Examples of SAS Operators :
+------------------------------
+*
+*
+_________________________________________________________________________________
+
+ 8. <<<<<<<<< Numeric Data Format >>>>>>>>>
+__________________________________________________
+                                                  |
+       Numeric Data Format                        |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Numeric Data Format
+                                                                                        
+2) Definition of Numeric Data Format ?
+--------------------------------------
+*
+ 
+3) What is Numeric Data Format About ?
+--------------------------------------
+*
+*
+
+4) What does Numeric Data Format Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of Numeric Data Format :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Numeric Data Format :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of Numeric Data Format :
+------------------------------------
+*
+*
+________________________________________________________________________________
+
+ 9. <<<<<<<<< SAS Loops >>>>>>>>>
+__________________________________________________
+  SAS Loops                                       |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* SAS Loops
+                                                                                        
+2) Definition of SAS Loops ?
+----------------------------
+*
+ 
+3) What is SAS Loops About ?
+----------------------------
+*
+*
+
+4) What does SAS Loops Do ?
+---------------------------
+*
+*
+
+5) Advantages/Benefits of SAS Loops :
+-------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of SAS Loops :
+----------------------------------------
+*
+*
+*  
+
+7) Examples of SAS Loops :
+--------------------------
+*
+*
+__________________________________________________________________________________
+
+ 10. <<<<<<<<< SAS Decision Making >>>>>>>>>
+__________________________________________________
+                                                  |
+      SAS Decision Making                         |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* SAS Decision Making
+                                                                                        
+2) Definition of SAS Decision Making ?
+--------------------------------------
+*
+ 
+3) What is SAS Decision Making About ?
+--------------------------------------
+*
+*
+
+4) What does SAS Decision Making Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of SAS Decision Making :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of SAS Decision Making :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of SAS Decision Making :
+------------------------------------
+*
+*
+________________________________________________________________________________
+        
+ 11. <<<<<<<<< SAS Functions >>>>>>>>>
+__________________________________________________
+                                                  |
+       SAS Functions                              |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* SAS Functions
+                                                                                        
+2) Definition of SAS Functions ?
+--------------------------------
+*
+ 
+3) What is SAS Functions About ?
+--------------------------------
+*
+*
+
+4) What does SAS Functions Do ?
+-------------------------------
+*
+*
+
+5) Advantages/Benefits of SAS Functions :
+-----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of SAS Functions :
+--------------------------------------------
+*
+*
+*  
+
+7) Examples of SAS Functions :
+------------------------------
+*
+*
+________________________________________________________________________________
+
+ 12. <<<<<<<<< SAS Macro >>>>>>>>>
+__________________________________________________
+                                                  |
+        SAS Macro                                 |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* SAS Macro
+                                                                                        
+2) Definition of SAS Macro ?
+----------------------------
+*
+ 
+3) What is SAS Macro About ?
+----------------------------
+*
+*
+
+4) What does SAS Macro Do ?
+---------------------------
+*
+*
+
+5) Advantages/Benefits of SAS Macro :
+-------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of SAS Macro :
+----------------------------------------
+*
+*
+*  
+
+7) Examples of SAS Macro :
+--------------------------
+*
+*
+_________________________________________________________________________________
+
+   *** Statistical Operations *** :
+       ======================
+     <<<<<<<<< Statistical Operations >>>>>>>>>
+               ======================
+__________________________________________________
+                                                  |
+     Statistical Operations                       |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Statistical Operations
+                                                                                        
+2) Definition of Statistical Operations ?
+-----------------------------------------
+*
+ 
+3) What is Statistical Operations About ?
+-----------------------------------------
+*
+*
+
+4) What does Statistical Operations Do ?
+----------------------------------------
+*
+*
+
+5) Advantages/Benefits of Statistical Operations :
+--------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Statistical Operations :
+-----------------------------------------------------
+*
+*
+*  
+
+7) Examples of Statistical Operations :
+---------------------------------------
+*
+*
+__________________________________________________________________________________
+
+ 1. <<<<<<<<< Frequency Distribution >>>>>>>>>
+__________________________________________________
+                                                  |
+        Frequency Distribution                    |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Frequency Distribution
+                                                                                        
+2) Definition of Frequency Distribution ?
+-----------------------------------------
+*
+ 
+3) What is Frequency Distribution About ?
+-----------------------------------------
+*
+*
+
+4) What does Frequency Distribution Do ?
+----------------------------------------
+*
+*
+
+5) Advantages/Benefits of Frequency Distribution :
+--------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Frequency Distribution :
+-----------------------------------------------------
+*
+*
+*  
+
+7) Examples of Frequency Distribution :
+---------------------------------------
+*
+*
+__________________________________________________________________________________
+
+ 2. <<<<<<<<< Standard Deviation >>>>>>>>>
+__________________________________________________
+                                                  |
+        Standard Deviation                        |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Standard Deviation
+                                                                                        
+2) Definition of Standard Deviation ?
+-------------------------------------
+*
+ 
+3) What is Standard Deviation About ?
+-------------------------------------
+*
+*
+
+4) What does Standard Deviation Do ?
+------------------------------------
+*
+*
+
+5) Advantages/Benefits of Standard Deviation :
+----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Standard Deviation :
+-------------------------------------------------
+*
+*
+*  
+
+7) Examples of Standard Deviation :
+-----------------------------------
+*
+*
+__________________________________________________________________________________
+
+ 3. <<<<<<<<< Arithmetic Mean >>>>>>>>>
+__________________________________________________
+                                                  |
+      Arithmetic Mean                             |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Arithmetic Mean
+                                                                                        
+2) Definition of Arithmetic Mean ?
+----------------------------------
+*
+ 
+3) What is Arithmetic Mean About ?
+----------------------------------
+*
+*
+
+4) What does Arithmetic Mean Do ?
+---------------------------------
+*
+*
+
+5) Advantages/Benefits of Arithmetic Mean :
+-------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Arithmetic Mean :
+----------------------------------------------
+*
+*
+*  
+
+7) Examples of Arithmetic Mean :
+--------------------------------
+*
+*
+__________________________________________________________________________________
+
+ 4. <<<<<<<<< Cross Tabulation >>>>>>>>>
+__________________________________________________
+                                                  |
+         Cross Tabulation                         |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Cross Tabulation
+                                                                                        
+2) Definition of Cross Tabulation ?
+-----------------------------------
+*
+ 
+3) What is Cross Tabulation About ?
+-----------------------------------
+*
+*
+
+4) What does Cross Tabulation Do ?
+----------------------------------
+*
+*
+
+5) Advantages/Benefits of Cross Tabulation :
+--------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Cross Tabulation :
+-----------------------------------------------
+*
+*
+*  
+
+7) Examples of Cross Tabulation :
+---------------------------------
+*
+*
+________________________________________________________________________________
+
+

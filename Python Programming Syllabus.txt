@@ -1,0 +1,328 @@
+
+      Python Programming Syllabus :
+     ===============================
+ ````````````````````````````````````````
+
+             *  D. Python :
+                    =========
+                    Python Programming :
+                    =====================
+      *** Python Basics ***
+          ~~~~~~~~~~~~~
+
+    1.  Python language introduction
+    2.  Python 3 basics
+    3.  Python The new generation language
+    4.  Important difference between python 2.x and python 3.x with example
+    5.  Keywords in Python | Set 1, Set 2
+    6.  Namespaces and Scope in Python
+    7.  Statement, Indentation and Comment in Python
+    8.  Structuring Python Programs
+    9.  How to check if a string is a valid keyword in Python?
+   10.  How to assign values to variables in Python and other languages
+   11.  How to print without newline in Python?
+   12.  Decision making
+   13.  Basic calculator program using Python
+   14.  Python Language advantages and applications
+
+    *** Input/Output ***
+        ~~~~~~~~~~~~
+
+    1.  Taking input in Python
+    2.  Taking input from console in Python
+    3.  Taking multiple inputs from user in Python
+    4.  Python Input Methods for Competitive Programming
+    5.  Vulnerability in input() function – Python 2.x
+    6.  Python | Output using print() function
+    7.  How to print without newline in Python?
+    8.  Python | end parameter in print()
+    9.  Python | sep parameter in print()
+   10.  Python | Output Formatting
+
+   *** Data Types ***
+       ~~~~~~~~~~
+
+    1.  Introduction to DataTypes
+    2.  Strings
+    3.  List
+    4.  Tuples
+    5.  Sets
+    6.  Dictionary
+    7.  Arrays
+
+    *** Variables ***
+        ~~~~~~~~~
+
+    1.  Variables, expression, condition and function
+    2.  Maximum possible value of an integer in python?
+    3.  Global and local variables in python
+    4.  Packing and unpacking arguments in python
+    5.  Type conversion in python
+    6.  Byte objects vs string in python
+    7.  Print single and multiple variable
+    8.  Swap variable
+    9.  Private variables
+   10.  __name__ (A Special variable) in Python
+
+     *** Operators ***
+         ~~~~~~~~~
+
+    1.  Basic operator in python
+    2.  Logical and bitwise not operator on boolean 
+    3.  Ternary operator
+    4.  Division operator in python
+    5.  Operator Overloading in Python
+    6.  Any & all in python
+    7.  Inplace and standard operators in python
+    8.  Operator function in python | Set – 1
+    9.  Inplace operator | Set -1
+   10.  Logic Gates in Python
+   11.  Python | a += b is not always a = a + b
+   12.  Difference between == and is operator in Python
+   13.  Python Membership and Identity Operators | in, not in, is, is not
+
+      *** Control Flow ***
+          ~~~~~~~~~~~~
+
+    1.  Loops
+    2.  Loops and Control Statements (continue, break and pass) in Python
+    3.  Looping technique in python
+    4.  range vs xrange on python
+    5.  Programs for printing pyramid technique in python
+    6.  Chaining comparison in python
+    7.  else with for 
+    8.  switch function
+    9.  Using iteration in python effectively
+   10.  Python Itertools
+   11.  Python __iter__() and __next__() | Converting an object into an iterator
+   12.  Python | Difference between iterable and iterator
+   13.  Generators in python
+   14.  Generators expression in python
+
+    *** Functions ***
+        ~~~~~~~~~
+
+   1.  Functions in Python
+   2.  class method vs static method in Python
+   3.  Write an empty function in Python – pass statement
+   4.  Yield instead of Return
+   5.  Return Multiple Values
+   6.  Partial Functions in Python
+   7.  First Class functions in Python   
+   8.  Precision Handling
+   9.  *args and **kwargs
+  10.  Python closures
+  11.  Function Decorators
+  12.  Decorators in Python
+  13.  Decorators with parameters in Python
+  14.  Memoization using decorators in Python
+  15.  Help function in Python
+  16.  Python | __import__() function
+  17.  Python | range() does not return an iterator
+  18.  Coroutine in Python
+  19.  Python bit functions on int (bit_length, to_bytes and from_bytes)
+
+      *** Object Oriented Concepts ***
+          ~~~~~~~~~~~~~~~~~~~~~~~~
+
+   1.  Python3 Intermediate Level Topics 
+   2.  Class, Object and Members
+   3.  Data Hiding and Object Printing
+   4.  Inheritance, examples of object, issubclass and super
+   5.  Polymorphism in Python
+   6.  Class and static variable in python
+   7.  Class method and static method in python
+   8.  Changing class members
+   9.  Constructors in Python
+  10.  Destructors in Python
+  11.  First class function
+  12.  Metaprogramming with metaclasses
+  13.  Class and instance attribute
+  14.  Reflection
+  15.  Garbage collection
+
+      *** Exception Handling ***
+          ~~~~~~~~~~~~~~~~~~
+
+   1.  Exception handling
+   2.  User defined Exception
+   3.  Built-in Exception
+   4.  clean up action
+   5.  Nzec error
+   6.  try and except in Python
+
+     *** Python Collections ***
+         ~~~~~~~~~~~~~~~~~~
+   1.  Counters
+   2.  OrderedDict
+   3.  Defaultdict
+   4.  ChainMap
+   5.  NamedTuple
+   6.  DeQue
+   7.  Heap
+   8.  Collections.UserDict
+   9.  Collections.UserList
+  10.  Collections.UserString
+
+     *** Django Framework ***
+         ~~~~~~~~~~~~~~~~
+ 
+   1.  Django Tutorial
+   2.  Django Basics
+   3.  Django Introduction and Installation
+   4.  Django Forms
+   5.  Views In Django
+   6.  Django Models 
+   7.  Django Templates
+   8.  ToDo webapp using Django
+   9.  Django News App
+  10.  Weather app using Django
+
+    *** Data Analysis ***
+        ~~~~~~~~~~~~~
+
+   1.  Data visualization using Bokeh
+   2.  Exploratory Data Analysis in Python
+   3.  Data visualization with different Charts in Python
+   4.  Data analysis and Visualization with Python
+   5.  Data Analysis & Visualization with Python | Set 2
+   6.  Math operations for Data analysis
+   7.  Getting started with Jupyter Notebook | Python
+
+     *** Numpy ***
+         ~~~~~
+
+   1.  Python Numpy
+   2.  Numpy | ndarray
+   3.  Numpy | Array Creation
+   4.  Numpy | Data Type Objects
+   5.  Data type Object (dtype) in NumPy
+   6.  Numpy | Indexing
+   7.  Numpy | Basic Slicing and Advanced Indexing
+   8.  Numpy | Iterating Over Array
+   9.  Numpy | Binary Operations
+  10.  Numpy | Linear Algebra
+  11.  Numpy | Sorting, Searching and Counting
+
+     *** Pandas ***
+         ~~~~~~
+
+   1.  Pandas Tutorial
+   2.  Python | Pandas DataFrame
+   3.  Creating a Pandas DataFrame
+   4.  Dealing with Rows and Columns in Pandas DataFrame
+   5.  Indexing and Selecting Data with Pandas
+   6.  Boolean Indexing in Pandas
+   7.  Conversion Functions in Pandas DataFrame
+   8.  Iterating over rows and columns in Pandas DataFrame
+   9.  Working with Missing Data in Pandas
+  10.  Python | Pandas Series
+  11.  Data analysis using Pandas
+  12.  Read csv using pandas.read_csv()
+
+     *** Machine Learning with Python ***
+         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+   1.  Machine Learning Tutorial
+   2.  Linear Regression
+   3.  Understanding Logistic Regression
+   4.  K means Clustering
+   5.  Python | Image Classification using keras
+   6.  creating a simple machine learning model
+   7.  Python | Implementation of Movie Recommender System
+   8.  ML | Boston Housing Kaggle Challenge with Linear Regression
+   9.  Cancer cell classification using Scikit-learn
+  10.  Saving a machine learning Model
+  11.  Applying Convolutional Neural Network on mnist dataset
+  12.  Python | NLP analysis of Restaurant reviews
+  13.  Learning Model Building in Scikit-learn
+  14.  Implementing Artificial Neural Network training process
+  15.  A single neuron neural network in Python
+  16.  Python | How and where to apply Feature Scaling?
+  17.  Identifying handwritten digits using Logistic Regression in PyTorch
+
+    *** Python GUI ***
+        ~~~~~~~~~~
+
+  1.  Tkinter Tutorial
+  2.  Kivy Tutorial
+  3.  Python GUI – tkinter
+  4.  Simple GUI calculator using Tkinter
+  5.  Simple registration form using Tkinter
+  6.  Create a stopwatch using python 
+  7.  Designing GUI applications Using PyQt
+  8.  Color game using Tkinter in Python
+  9.  Make Notepad using Tkinter
+ 10.  Message Encode-Decode using Tkinter
+ 11.  Real time currency convertor using Tkinter
+
+    *** Modules in Python ***
+        ~~~~~~~~~~~~~~~~~
+
+    1.  Introduction of Modules
+    2.  OS module
+    3.  Calendar Module
+    4.  Python Urllib Module
+    5.  pprint
+    6.  Timit function
+    7.  Import module
+
+    *** Working With Database ***
+        ~~~~~~~~~~~~~~~~~~~~~
+
+    1.  MongoDB and Python
+    2.  SQL using Python | Set 1
+    3.  SQL using Python and SQLite | Set 2
+    4.  SQL using Python | Set 3 (Handling large data)
+    5.  Inserting variables to database table using Python
+    6.  MYSQLdb Connection in Python
+    7.  Database management in PostgreSQL
+    8.  Oracle Database Connection in Python
+
+    *** Misc ***
+        ~~~~
+
+    1.  10 Essential Python Tips And Tricks For Programmers
+    2.  Amazing hacks of Python
+    3.  Input method for comptetive programming
+    4.  Optimization Tips for Python Code
+    5.  Why import star in Python is a bad idea
+    6.  Why is python best suited for Competitive Coding?
+    7.  Python trics for Competitive Coding
+
+    *** Applications and Projects ***
+        ~~~~~~~~~~~~~~~~~~~~~~~~~
+
+    1.  Python | Program to crawl a web page and get most frequent words
+    2.  Facebook login using python
+    3.  FB Chatting through python
+    4.  C/C++ code formating tool
+    5.  Find Live running status and PNR of any train using Railway API
+    6.  Fetching top news using News API
+    7.  Fetching text from Wikipedia’s Infobox in Python
+    8.  Get emotions of images using Microsoft emotion API in Python
+    9.  Website blocker
+   10.  Send SMS updates to mobile phone using python
+   11.  Python Desktop News Notifier in 20 lines
+   12.  Morse Code Translator In Python  
+   13.  Performing Google Search using Python code
+   14.  Reading and generating qr code
+   15.  Birthday reminder application in python
+   16.  Program to display Astrological sign or Zodiac sign for given date of birth
+   17.  Track bird migration
+   18.  News notifier
+   19.  whatsapp using python
+   20.  Python | Automating Happy Birthday post on Facebook using Selenium
+   21.  Design a Keylogger in Python
+   22.  Python | Implementation of Movie Recommender System
+
+     *** Recommended Python Tutorials ***
+         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+    1.  Python Tutorial
+    2.  Machine Learning Tutorial
+    3.  Django Tutorial
+    4.  Pandas Tutorial
+    5.  OpenCV Python Tutorial
+    6.  Selenium Python Tutorial
+    7.  Python Tkinter Tutorial

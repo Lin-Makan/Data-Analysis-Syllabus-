@@ -1,0 +1,121 @@
+
+  * E. Tableau Public :
+            ==================
+            Tableau Tutorial :
+            ==================
+              *** Introduction *** 
+                  ````````````
+            1.  What is Tableau and its Importance in Data Visualization?
+            2.  Tableau Installation Guide
+            3.  Tableau Drivers – Download and Connect
+            4.  Tableau – Data Terminology
+            5.  Power BI vs Tableau – Top 5 Key Differences That You Should Know
+            6.  Difference Between Google Data Studio vs Tableau
+
+              *** Tableau Basics ***
+                  `````````````` 
+            1.  Tableau – Navigation
+            2.  Start Page in Tableau
+            3.  Tableau – Design Flow
+            4.  Tableau – File System
+            5.  Tableau – Data Types
+            6.  How to change Data type in Tableau?
+            7.  Show Me in Tableau
+
+              *** Working with Data Sources ***
+                  `````````````````````````
+           
+            1.  Tableau – Connect to a data source
+            2.  Import Excel file in Tableau
+            3.  Data Cleaning in Tableau
+            4.  Tableau – Join databases
+            5.  Joining data files with inconsistent labels
+            6.  Data Blending
+            7.  Replacing Data source
+            8.  Tableau – Split the text to columns
+            9.  Tableau – Displaying data in Worksheet
+           10.  Tableau – Adding, Renaming and duplicating worksheets
+               
+            *** Visualization using Tableau ***
+                ```````````````````````````
+               1.  Create Visualization
+               2.  Change the order in visualization
+               3.  Change the summary 
+
+            *** Tableau Calculations ***
+                ````````````````````
+              1.  Tableau – Operators
+              2.  IF Function in Tableau
+              3.  Aggregate Functions in Tableau
+              4.  Create Calculated Field in Tableau
+              5.  Logical Functions in Tableau
+              6.  Case Function in Tableau
+              7.  Highlight Tables in Tableau
+              8.  Quick Table Calculation in Tableau
+              9.  LOD Calculation
+
+            *** Sort and Filter with Tableau ***
+                ````````````````````````````
+              1.  Filtering in Visualization in Tableau
+              2.  Quick Filter in Tableau
+              3.  Context Filter in Tableau
+              4.  Conditional Filter in Tableau
+              5.  Slicing Filter in Tableau
+              6.  Grouping in Visualization in Tableau
+              7.  Hierarchy in Tableau
+              8.  Set in Tableau
+              9.  Combined Set in Tableau
+             10.  Parameters in Tableau
+             11.  Tableau Bins
+             12.  Manual Sorting of Visualization in Tableau
+             13.  Sorting by Data Source order in Visualization in Tableau
+             14.  Sorting by field in Visualization in Tableau
+            
+           *** Different Charts in Tableau ***
+               ```````````````````````````
+              1.  Line graph in Tableau
+              2.  Dual Lines Chart in Tableau
+              3.  Bar Chart in Tableau
+              4.  Side-by-Side Bars in Tableau
+              5.  Stacked Bars in Tableau
+              6.  Histogram in Tableau
+              7.  Cumulative Histogram in Tableau
+              8.  Scatter plot in Tableau
+              9.  Bubble Chart in Tableau
+             10.  Pie chart in tableau
+             11.  Crosstab in tableau
+             12.  Total in a crosstab by column in Tableau
+             13.  Box Plot in Tableau
+             14.  Bullet Graph in Tableau
+             15.  Area Chart in Tableau
+             16.  Heat Map in Tableau
+             17.  Basic Map in Tableau
+             18.  Geographical plot in Tableau
+             19.  Lollipop Chart in Tableau
+             20.  Circle views in Tableau
+             21.  Dual Combination Chart in Tableau
+             22.  Treemap in Tableau
+             23.  Funnel Chart in Tableau
+             24.  Traditional Funnel Chart in Tableau
+             25.  Waterfall Chart in Tableau
+             26.  Gantt Chart in Tableau
+
+            *** Working with Dashboards ***
+                ```````````````````````
+              1.  Create a Dashboard in Tableau
+              2.  Text Object on Dashboard in Tableau
+              3.  Image Object on Dashboard in Tableau
+              4.  Tableau – Objects on Dashboard
+              5.  Tableau – Filters in Dashboard
+              6.  Tableau – Device Preview
+              7.  Format Dashboard Layout in Tableau
+
+            *** Advance Tableau Topics ***
+                ``````````````````````
+              1.  Forecast in Tableau
+              2.  Reference line in Tableau
+              3.  Reference Band in Tableau
+              4.  Reference Distribution Band in Tableau
+              5.  Trend Lines in Tableau
+              6.  Tableau – Building up a storyline
+              7.  Word Cloud in Tableau
