@@ -1,0 +1,98 @@
+
+ Git and CLI Syllabus :
+ =======================
+
+   Git for Data Science :
+   ======================
+   What is Git ?
+   --------------
+
+   What is the difference between Git & GitHub ?
+   ---------------------------------------------
+
+   Terminology :
+   ==============
+     1. Repository
+     2. Branch
+     3. Merge
+     4. Clone
+     5. Origin
+     6. Main / Master 
+     7. Stage
+     8. Commit
+     9. HEAD
+    10. Push
+    11. Pull
+    12. Pull Request
+   
+  Don’t push datasets :
+  =======================
+      + 
+      + 
+      + 
+
+  Don’t push secrets :
+  =====================
+    +
+    +
+    +
+
+  .env :
+  ======
+     +
+     +
+     +
+  
+  .env.template :
+  ===============
+      +
+      +
+      +
+
+  .gitignore :
+  ============
+   +
+   +
+   +
+ 
+  hello.py :
+  ==========
+   +
+   +
+   +
+
+  Don’t push notebook outputs :
+  =============================
+    +
+    +
+    +
+
+  Don’t use the — force :
+  =======================
+    +
+    +
+    + 
+ 
+  Do small commits with clear descriptions :
+  ==========================================
+    +
+    +
+    +
+
+  Example #1: a bad repository :
+  ==============================
+     +
+     +
+  
+  Example #2: a good repository :
+  ===============================
+   +
+   +
+   + 
+
+  Don’t be afraid of branching & pull requests :
+  ==============================================
+     +
+     +
+     +
+

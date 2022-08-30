@@ -1,0 +1,2858 @@
+
+ Microsoft Excel Questions :
+ =============================
+
+              * Introduction to MS-Excel :
+                ***************************
+                 1. <<<<<<<<< Introduction to MS-Excel >>>>>>>>>
+__________________________________________________
+                                                  |
+    Introduction to MS-Excel                      |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Introduction to MS-Excel
+                                                                                        
+2) Definition of Introduction to MS-Excel ?
+-------------------------------------------
+*
+ 
+3) What is Introduction to MS-Excel About ?
+-------------------------------------------
+*
+*
+
+4) What does Introduction to MS-Excel Do ?
+------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Introduction to MS-Excel :
+----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Introduction to MS-Excel :
+-------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Introduction to MS-Excel :
+-----------------------------------------
+*
+*
+_________________________________________________________________________________
+
+              * Cell references :
+                ``````````````````
+     <<<<<<<<< Cell references >>>>>>>>>
+               ```````````````
+__________________________________________________
+                                                  |
+        Cell references                           |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Cell references
+                                                                                        
+2) Definition of Cell references ?
+----------------------------------
+*
+ 
+3) What is Cell references About ?
+----------------------------------
+*
+*
+
+4) What does Cell references Do ?
+---------------------------------
+*
+*
+
+5) Advantages/Benefits of Cell references :
+-------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Cell references :
+----------------------------------------------
+*
+*
+*  
+
+7) Examples of Cell references :
+--------------------------------
+*
+*
+__________________________________________________________________________________
+
+              * There are Three Types of Cell References in Excel :
+                `````````````````````````````````````````````````````
+ 1. <<<<<<<<< Relative reference >>>>>>>>>
+__________________________________________________
+         Relative reference                       |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Relative reference
+                                                                                        
+2) Definition of Relative reference ?
+-------------------------------------
+*
+ 
+3) What is Relative reference About ?
+-------------------------------------
+*
+*
+
+4) What does Relative reference Do ?
+------------------------------------
+*
+*
+
+5) Advantages/Benefits of Relative reference :
+----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Relative reference :
+-------------------------------------------------
+*
+*
+*  
+
+7) Examples of Relative reference :
+-----------------------------------
+*
+*
+__________________________________________________________________________________
+
+ 2. <<<<<<<<< Absolute reference >>>>>>>>>
+__________________________________________________
+     Absolute reference                           |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Absolute reference
+                                                                                        
+2) Definition of Absolute reference ?
+-------------------------------------
+*
+ 
+3) What is Absolute reference About ?
+-------------------------------------
+*
+*
+
+4) What does Absolute reference Do ?
+------------------------------------
+*
+*
+
+5) Advantages/Benefits of Absolute reference :
+----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Absolute reference :
+-------------------------------------------------
+*
+*
+*  
+
+7) Examples of Absolute reference :
+-----------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 3. <<<<<<<<< Mixed reference >>>>>>>>>
+__________________________________________________
+     Mixed reference                              |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Mixed reference
+                                                                                        
+2) Definition of Mixed reference ?
+----------------------------------
+*
+ 
+3) What is Mixed reference About ?
+----------------------------------
+*
+*
+
+4) What does Mixed reference Do ?
+---------------------------------
+*
+*
+
+5) Advantages/Benefits of Mixed reference :
+-------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Mixed reference :
+----------------------------------------------
+*
+*
+*  
+
+7) Examples of Mixed reference :
+--------------------------------
+*
+*
+_________________________________________________________________________________
+
+              * The Ribbon :
+                ``````````````
+ 1. <<<<<<<<< Home Tab >>>>>>>>>
+__________________________________________________
+         Home Tab                                 |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Home Tab
+                                                                                        
+2) Definition of Home Tab ?
+---------------------------
+*
+ 
+3) What is Home Tab About ?
+---------------------------
+*
+*
+
+4) What does Home Tab Do ?
+--------------------------
+*
+*
+
+5) Advantages/Benefits of Home Tab :
+------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Home Tab :
+---------------------------------------
+*
+*
+*  
+
+7) Examples of Home Tab :
+-------------------------
+*
+*
+_______________________________________________________________________________
+
+ 2. <<<<<<<<< Insert Tab >>>>>>>>>
+__________________________________________________
+     Insert Tab                                   |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Insert Tab
+                                                                                        
+2) Definition of Insert Tab ?
+-----------------------------
+*
+ 
+3) What is Insert Tab About ?
+-----------------------------
+*
+*
+
+4) What does Insert Tab Do ?
+----------------------------
+*
+*
+
+5) Advantages/Benefits of Insert Tab :
+--------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Insert Tab :
+-----------------------------------------
+*
+*
+*  
+
+7) Examples of Insert Tab :
+---------------------------
+*
+*
+__________________________________________________________________________________
+
+ 3. <<<<<<<<< Page Layout >>>>>>>>>
+__________________________________________________
+     Page Layout                                  |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Page Layout
+                                                                                        
+2) Definition of Page Layout ?
+------------------------------
+*
+ 
+3) What is Page Layout About ?
+------------------------------
+*
+*
+
+4) What does Page Layout Do ?
+-----------------------------
+*
+*
+
+5) Advantages/Benefits of Page Layout :
+---------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Page Layout :
+------------------------------------------
+*
+*
+*  
+
+7) Examples of Page Layout :
+----------------------------
+*
+*
+_______________________________________________________________________________
+
+ 4. <<<<<<<<< Formulas >>>>>>>>>
+__________________________________________________
+     Formulas                                     |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Formulas
+                                                                                        
+2) Definition of Formulas ?
+---------------------------
+*
+ 
+3) What is Formulas About ?
+---------------------------
+*
+*
+
+4) What does Formulas Do ?
+--------------------------
+*
+*
+
+5) Advantages/Benefits of Formulas :
+------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Formulas :
+---------------------------------------
+*
+*
+*  
+
+7) Examples of Formulas :
+-------------------------
+*
+*
+__________________________________________________________________________________
+
+ 5. <<<<<<<<< Data >>>>>>>>>
+__________________________________________________
+      Data                                        |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Data
+                                                                                        
+2) Definition of Data ?
+-----------------------
+*
+ 
+3) What is Data About ?
+-----------------------
+*
+*
+
+4) What does Data Do ?
+----------------------
+*
+*
+
+5) Advantages/Benefits of Data :
+--------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Data :
+-----------------------------------
+*
+*
+*  
+
+7) Examples of Data :
+---------------------
+*
+*
+_______________________________________________________________________
+
+ 6. <<<<<<<<< Review >>>>>>>>>
+__________________________________________________
+         Review                                   |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Review
+                                                                                        
+2) Definition of Review ?
+-------------------------
+*
+ 
+3) What is Review About ?
+-------------------------
+*
+*
+
+4) What does Review Do ?
+------------------------
+*
+*
+
+5) Advantages/Benefits of Review :
+----------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Review :
+-------------------------------------
+*
+*
+*  
+
+7) Examples of Review :
+-----------------------
+*
+*
+_______________________________________________________________________________
+
+ 7. <<<<<<<<< View >>>>>>>>>
+__________________________________________________
+     View                                         |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* View
+                                                                                        
+2) Definition of View ?
+-----------------------
+*
+ 
+3) What is View About ?
+-----------------------
+*
+*
+
+4) What does View Do ?
+----------------------
+*
+*
+
+5) Advantages/Benefits of View :
+--------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of View :
+-----------------------------------
+*
+*
+*  
+
+7) Examples of View :
+---------------------
+*
+*
+__________________________________________________________________________________
+
+
+              * Creating a new spreadsheet :
+                ````````````````````````````
+         <<<<<<<<< Creating a new spreadsheet : >>>>>>>>>
+                   ````````````````````````````
+__________________________________________________
+                                                  |
+     Creating a new spreadsheet                   |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Creating a new spreadsheet
+                                                                                        
+2) Definition of Creating a new spreadsheet ?
+---------------------------------------------
+*
+ 
+3) What is Creating a new spreadsheet About ?
+---------------------------------------------
+*
+*
+
+4) What does Creating a new spreadsheet Do ?
+--------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Creating a new spreadsheet :
+------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Creating a new spreadsheet :
+---------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Creating a new spreadsheet :
+-------------------------------------------
+*
+*
+__________________________________________________________________________________
+
+              * Opening previous spreadsheet :
+                ``````````````````````````````
+      <<<<<<<<< Opening previous spreadsheet >>>>>>>>>
+                `````````````````````````````
+__________________________________________________
+                                                  |
+        Opening previous spreadsheet              |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Opening previous spreadsheet
+                                                                                        
+2) Definition of Opening previous spreadsheet ?
+-----------------------------------------------
+*
+ 
+3) What is Opening previous spreadsheet About ?
+-----------------------------------------------
+*
+*
+
+4) What does Opening previous spreadsheet Do ?
+----------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Opening previous spreadsheet :
+--------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Opening previous spreadsheet :
+-----------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Opening previous spreadsheet :
+---------------------------------------------
+*
+*
+__________________________________________________________________________________
+
+              * Managing the spreadsheets :
+                ```````````````````````````
+      <<<<<<<<< Managing the spreadsheets >>>>>>>>>
+                ``````````````````````````
+__________________________________________________
+                                                  |
+       Managing the spreadsheets                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Managing the spreadsheets
+                                                                                        
+2) Definition of Managing the spreadsheets ?
+--------------------------------------------
+*
+ 
+3) What is Managing the spreadsheets About ?
+--------------------------------------------
+*
+*
+
+4) What does Managing the spreadsheets Do ?
+-------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Managing the spreadsheets :
+-----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Managing the spreadsheets :
+--------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Managing the spreadsheets :
+------------------------------------------
+*
+*
+__________________________________________________________________________________
+
+              * To save the workbook :
+                ``````````````````````
+   <<<<<<<<< To save the workbook >>>>>>>>>
+             `````````````````````
+__________________________________________________
+   To save the workbook                           |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* To save the workbook
+                                                                                        
+2) Definition of To save the workbook ?
+---------------------------------------
+*
+ 
+3) What is To save the workbook About ?
+---------------------------------------
+*
+*
+
+4) What does To save the workbook Do ?
+--------------------------------------
+*
+*
+
+5) Advantages/Benefits of To save the workbook :
+------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of To save the workbook :
+---------------------------------------------------
+*
+*
+*  
+
+7) Examples of To save the workbook :
+-------------------------------------
+*
+*
+__________________________________________________________________________________
+
+              * To share your workbook :
+                ````````````````````````
+ <<<<<<<<<  To share your workbook  >>>>>>>>>
+            ```````````````````````
+__________________________________________________
+                                                  |
+      To share your workbook                      |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* To share your workbook
+                                                                                        
+2) Definition of To share your workbook ?
+-----------------------------------------
+*
+ 
+3) What is To share your workbook About ?
+-----------------------------------------
+*
+*
+
+4) What does To share your workbook Do ?
+----------------------------------------
+*
+*
+
+5) Advantages/Benefits of To share your workbook :
+--------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of To share your workbook :
+-----------------------------------------------------
+*
+*
+*  
+
+7) Examples of To share your workbook :
+---------------------------------------
+*
+*
+__________________________________________________________________________________
+
+              * Ms-Excel shortcuts:
+                ````````````````````
+                  1.  Ctrl+N: To open a new workbook.
+                  2.  Ctrl+O: To open a saved workbook.
+                  3.  Ctrl+S: To save a workbook.
+                  4.  Ctrl+C: To copy the selected cells.
+                  5.  Ctrl+V: To paste the copied cells.
+                  6.  Ctrl+X: To cut the selected cells.
+                  7.  Ctrl+W: To close the workbook.
+                  8.  Delete: To remove all the contents from the cell.
+                  9.  Ctrl+P: To print the workbook.
+                 10.  Ctrl+Z: To undo
+
+      <<<<<<<<< Ms-Excel shortcuts >>>>>>>>>
+__________________________________________________
+     Ms-Excel shortcuts                           |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Ms-Excel shortcuts
+                                                                                        
+2) Definition of Ms-Excel shortcuts ?
+-------------------------------------
+*
+ 
+3) What is Ms-Excel shortcuts About ?
+-------------------------------------
+*
+*
+
+4) What does Ms-Excel shortcuts Do ?
+------------------------------------
+*
+*
+
+5) Advantages/Benefits of Ms-Excel shortcuts :
+----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Ms-Excel shortcuts :
+-------------------------------------------------
+*
+*
+*  
+
+7) Examples of Ms-Excel shortcuts :
+-----------------------------------
+*
+*
+__________________________________________________________________________________
+ 
+     *** MS Excel Tutorial *** :
+         =================
+
+   1. <<<<<<<<< Excel Tutorial open link >>>>>>>>>
+__________________________________________________
+       Excel Tutorial open link                   |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Excel Tutorial open link
+                                                                                        
+2) Definition of Excel Tutorial open link ?
+-------------------------------------------
+*
+ 
+3) What is Excel Tutorial open link About ?
+-------------------------------------------
+*
+*
+
+4) What does Excel Tutorial open link Do ?
+------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Excel Tutorial open link :
+----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Excel Tutorial open link :
+-------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Excel Tutorial open link :
+-----------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 2. <<<<<<<<< Workbook Window >>>>>>>>>
+__________________________________________________
+     Workbook Window                              |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Workbook Window
+                                                                                        
+2) Definition of Workbook Window ?
+----------------------------------
+*
+ 
+3) What is Workbook Window About ?
+----------------------------------
+*
+*
+
+4) What does Workbook Window Do ?
+---------------------------------
+*
+*
+
+5) Advantages/Benefits of Workbook Window :
+-------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Workbook Window :
+----------------------------------------------
+*
+*
+*  
+
+7) Examples of Workbook Window :
+--------------------------------
+*
+*
+__________________________________________________________________________________
+
+ 3. <<<<<<<<< Create & Open Workbooks >>>>>>>>>
+__________________________________________________
+     Create & Open Workbooks                      |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Create & Open Workbooks
+                                                                                        
+2) Definition of Create & Open Workbooks ?
+------------------------------------------
+*
+ 
+3) What is Create & Open Workbooks About ?
+------------------------------------------
+*
+*
+
+4) What does Create & Open Workbooks Do ?
+-----------------------------------------
+*
+*
+
+5) Advantages/Benefits of Create & Open Workbooks :
+---------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Create & Open Workbooks :
+------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Create & Open Workbooks :
+----------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 4. <<<<<<<<< MS Excel Online >>>>>>>>>
+__________________________________________________
+     MS Excel Online                              |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* MS Excel Online
+                                                                                        
+2) Definition of MS Excel Online ?
+----------------------------------
+*
+ 
+3) What is MS Excel Online About ?
+----------------------------------
+*
+*
+
+4) What does MS Excel Online Do ?
+---------------------------------
+*
+*
+
+5) Advantages/Benefits of MS Excel Online :
+-------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of MS Excel Online :
+----------------------------------------------
+*
+*
+*  
+
+7) Examples of MS Excel Online :
+--------------------------------
+*
+*
+__________________________________________________________________________________
+
+ 5. <<<<<<<<< Excel vs Google Sheets >>>>>>>>>
+__________________________________________________
+      Excel vs Google Sheets                      |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Excel vs Google Sheets
+                                                                                        
+2) Definition of Excel vs Google Sheets ?
+-----------------------------------------
+*
+ 
+3) What is Excel vs Google Sheets About ?
+-----------------------------------------
+*
+*
+
+4) What does Excel vs Google Sheets Do ?
+----------------------------------------
+*
+*
+
+5) Advantages/Benefits of Excel vs Google Sheets :
+--------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Excel vs Google Sheets :
+-----------------------------------------------------
+*
+*
+*  
+
+7) Examples of Excel vs Google Sheets :
+---------------------------------------
+*
+*
+__________________________________________________________________________________
+
+ 6. <<<<<<<<< Office Button >>>>>>>>>
+__________________________________________________
+        Office Button                             |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Office Button
+                                                                                        
+2) Definition of Office Button ?
+--------------------------------
+*
+ 
+3) What is Office Button About ?
+--------------------------------
+*
+*
+
+4) What does Office Button Do ?
+-------------------------------
+*
+*
+
+5) Advantages/Benefits of Office Button :
+-----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Office Button :
+--------------------------------------------
+*
+*
+*  
+
+7) Examples of Office Button :
+------------------------------
+*
+*
+__________________________________________________________________________________
+
+ 7. <<<<<<<<< Ribbon and Tabs >>>>>>>>>
+__________________________________________________
+     Ribbon and Tabs                              |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Ribbon and Tabs
+                                                                                        
+2) Definition of Ribbon and Tabs ?
+----------------------------------
+*
+ 
+3) What is Ribbon and Tabs About ?
+----------------------------------
+*
+*
+
+4) What does Ribbon and Tabs Do ?
+---------------------------------
+*
+*
+
+5) Advantages/Benefits of Ribbon and Tabs :
+-------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Ribbon and Tabs :
+----------------------------------------------
+*
+*
+*  
+
+7) Examples of Ribbon and Tabs :
+--------------------------------
+*
+*
+__________________________________________________________________________________
+
+ 8. <<<<<<<<< Features of Tabs >>>>>>>>>
+__________________________________________________
+    Features of Tabs                              |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Features of Tabs
+                                                                                        
+2) Definition of Features of Tabs ?
+-----------------------------------
+*
+ 
+3) What is Features of Tabs About ?
+-----------------------------------
+*
+*
+
+4) What does Features of Tabs Do ?
+-----------------------------------
+*
+*
+
+5) Advantages/Benefits of Features of Tabs :
+--------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Features of Tabs :
+-----------------------------------------------
+*
+*
+*  
+
+7) Examples of Features of Tabs :
+---------------------------------
+*
+*
+________________________________________________________________________________
+
+ 9. <<<<<<<<< Quick Access Toolbar >>>>>>>>>
+__________________________________________________
+     Quick Access Toolbar                         |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Quick Access Toolbar
+                                                                                        
+2) Definition of Quick Access Toolbar ?
+---------------------------------------
+*
+ 
+3) What is Quick Access Toolbar About ?
+---------------------------------------
+*
+*
+
+4) What does Quick Access Toolbar Do ?
+--------------------------------------
+*
+*
+
+5) Advantages/Benefits of Quick Access Toolbar :
+------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Quick Access Toolbar :
+---------------------------------------------------
+*
+*
+*  
+
+7) Examples of Quick Access Toolbar :
+-------------------------------------
+*
+*
+__________________________________________________________________________________
+
+ 10. <<<<<<<<< Mini Toolbar >>>>>>>>>
+__________________________________________________
+      Mini Toolbar                                |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Mini Toolbar
+                                                                                        
+2) Definition of Mini Toolbar ?
+-------------------------------
+*
+ 
+3) What is Mini Toolbar About ?
+-------------------------------
+*
+*
+
+4) What does Mini Toolbar Do ?
+------------------------------
+*
+*
+
+5) Advantages/Benefits of Mini Toolbar :
+----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Mini Toolbar :
+-------------------------------------------
+*
+*
+*  
+
+7) Examples of Mini Toolbar :
+-----------------------------
+*
+*
+__________________________________________________________________________________
+        
+ 11. <<<<<<<<< Title, Help, Zoom, View >>>>>>>>>
+__________________________________________________
+        Title, Help, Zoom, View                   |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Title, Help, Zoom, View
+                                                                                        
+2) Definition of Title, Help, Zoom, View ?
+------------------------------------------
+*
+ 
+3) What is Title, Help, Zoom, View About ?
+------------------------------------------
+*
+*
+
+4) What does Title, Help, Zoom, View Do ?
+-----------------------------------------
+*
+*
+
+5) Advantages/Benefits of Title, Help, Zoom, View :
+---------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Title, Help, Zoom, View :
+------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Title, Help, Zoom, View :
+----------------------------------------
+*
+*
+__________________________________________________________________________________
+
+   *** Excel Worksheet *** :
+       ===============
+
+ 1. <<<<<<<<< Worksheet, Row, Column >>>>>>>>>
+__________________________________________________
+      Worksheet, Row, Column                      |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Worksheet, Row, Column
+                                                                                        
+2) Definition of Worksheet, Row, Column ?
+-----------------------------------------
+*
+ 
+3) What is Worksheet, Row, Column About ?
+-----------------------------------------
+*
+*
+
+4) What does Worksheet, Row, Column Do ?
+----------------------------------------
+*
+*
+
+5) Advantages/Benefits of Worksheet, Row, Column :
+--------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Worksheet, Row, Column :
+-----------------------------------------------------
+*
+*
+*  
+
+7) Examples of Worksheet, Row, Column :
+---------------------------------------
+*
+*
+__________________________________________________________________________________
+
+ 2. <<<<<<<<< Moving on Worksheet >>>>>>>>>
+__________________________________________________
+     Moving on Worksheet                          |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Moving on Worksheet
+                                                                                        
+2) Definition of Moving on Worksheet ?
+--------------------------------------
+*
+ 
+3) What is Moving on Worksheet About ?
+--------------------------------------
+*
+*
+
+4) What does Moving on Worksheet Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of Moving on Worksheet :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Moving on Worksheet :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of Moving on Worksheet :
+------------------------------------
+*
+*
+__________________________________________________________________________________
+
+ 3. <<<<<<<<< Enter Data >>>>>>>>>
+__________________________________________________
+     Enter Data                                   |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Enter Data
+                                                                                        
+2) Definition of Enter Data ?
+-----------------------------
+*
+ 
+3) What is Enter Data About ?
+-----------------------------
+*
+*
+
+4) What does Enter Data Do ?
+----------------------------
+*
+*
+
+5) Advantages/Benefits of Enter Data :
+--------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Enter Data :
+-----------------------------------------
+*
+*
+*  
+
+7) Examples of Enter Data :
+---------------------------
+*
+*
+_________________________________________________________________________________
+
+ 4. <<<<<<<<< Select Data >>>>>>>>>
+__________________________________________________
+     Select Data                                  |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Select Data
+                                                                                        
+2) Definition of Select Data ?
+------------------------------
+*
+ 
+3) What is Select Data About ?
+------------------------------
+*
+*
+
+4) What does Select Data Do ?
+-----------------------------
+*
+*
+
+5) Advantages/Benefits of Select Data :
+---------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Select Data :
+------------------------------------------
+*
+*
+*  
+
+7) Examples of Select Data :
+----------------------------
+*
+*
+__________________________________________________________________________________
+
+ 5. <<<<<<<<< Delete Data >>>>>>>>>
+__________________________________________________
+      Delete Data                                 |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Delete Data
+                                                                                        
+2) Definition of Delete Data ?
+------------------------------
+*
+ 
+3) What is Delete Data About ?
+------------------------------
+*
+*
+
+4) What does Delete Data Do ?
+-----------------------------
+*
+*
+
+5) Advantages/Benefits of Delete Data :
+---------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Delete Data :
+------------------------------------------
+*
+*
+*  
+
+7) Examples of Delete Data :
+----------------------------
+*
+*
+_________________________________________________________________________________
+
+ 6. <<<<<<<<< Move Data >>>>>>>>>
+__________________________________________________
+         Move Data                                |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Move Data
+                                                                                        
+2) Definition of Move Data ?
+----------------------------
+*
+ 
+3) What is Move Data About ?
+----------------------------
+*
+*
+
+4) What does Move Data Do ?
+---------------------------
+*
+*
+
+5) Advantages/Benefits of Move Data :
+-------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Move Data :
+----------------------------------------
+*
+*
+*  
+
+7) Examples of Move Data :
+--------------------------
+*
+*
+__________________________________________________________________________________
+
+ 7. <<<<<<<<< Copy Paste Data >>>>>>>>>
+__________________________________________________
+     Copy Paste Data                              |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Copy Paste Data
+                                                                                        
+2) Definition of Copy Paste Data ?
+----------------------------------
+*
+ 
+3) What is Copy Paste Data About ?
+----------------------------------
+*
+*
+
+4) What does Copy Paste Data Do ?
+---------------------------------
+*
+*
+
+5) Advantages/Benefits of Copy Paste Data :
+-------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Copy Paste Data :
+----------------------------------------------
+*
+*
+*  
+
+7) Examples of Copy Paste Data :
+--------------------------------
+*
+*
+__________________________________________________________________________________
+
+ 8. <<<<<<<<< Spell Check >>>>>>>>>
+__________________________________________________
+    Spell Check                                   |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Spell Check
+                                                                                        
+2) Definition of Spell Check ?
+------------------------------
+*
+ 
+3) What is Spell Check About ?
+------------------------------
+*
+*
+
+4) What does Spell Check Do ?
+-----------------------------
+*
+*
+
+5) Advantages/Benefits of Spell Check :
+---------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Spell Check :
+------------------------------------------
+*
+*
+*  
+
+7) Examples of Spell Check :
+----------------------------
+*
+*
+__________________________________________________________________________________
+
+ 9. <<<<<<<<< Insert Symbols >>>>>>>>>
+__________________________________________________
+     Insert Symbols                               |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Insert Symbols
+                                                                                        
+2) Definition of Insert Symbols ?
+---------------------------------
+*
+ 
+3) What is Insert Symbols About ?
+---------------------------------
+*
+*
+
+4) What does Insert Symbols Do ?
+--------------------------------
+*
+*
+
+5) Advantages/Benefits of Insert Symbols :
+------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Insert Symbols :
+---------------------------------------------
+*
+*
+*  
+
+7) Examples of Insert Symbols :
+-------------------------------
+*
+*
+__________________________________________________________________________________
+
+   *** Excel Calculation *** :
+       =================
+
+ 1. <<<<<<<<< Worksheet, Row, Column >>>>>>>>>
+__________________________________________________
+      Worksheet, Row, Column                      |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Worksheet, Row, Column
+                                                                                        
+2) Definition of Worksheet, Row, Column ?
+-----------------------------------------
+*
+ 
+3) What is Worksheet, Row, Column About ?
+-----------------------------------------
+*
+*
+
+4) What does Worksheet, Row, Column Do ?
+----------------------------------------
+*
+*
+
+5) Advantages/Benefits of Worksheet, Row, Column :
+--------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Worksheet, Row, Column :
+-----------------------------------------------------
+*
+*
+*  
+
+7) Examples of Worksheet, Row, Column :
+---------------------------------------
+*
+*
+__________________________________________________________________________________
+
+ 2. <<<<<<<<< Moving on Worksheet >>>>>>>>>
+__________________________________________________
+     Moving on Worksheet                          |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Moving on Worksheet
+                                                                                        
+2) Definition of Moving on Worksheet ?
+--------------------------------------
+*
+ 
+3) What is Moving on Worksheet About ?
+--------------------------------------
+*
+*
+
+4) What does Moving on Worksheet Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of Moving on Worksheet :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Moving on Worksheet :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of Moving on Worksheet :
+------------------------------------
+*
+*
+_________________________________________________________________________________
+
+ 3. <<<<<<<<< Enter Data >>>>>>>>>
+__________________________________________________
+     Enter Data                                   |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Enter Data
+                                                                                        
+2) Definition of Enter Data ?
+-----------------------------
+*
+ 
+3) What is Enter Data About ?
+-----------------------------
+*
+*
+
+4) What does Enter Data Do ?
+----------------------------
+*
+*
+
+5) Advantages/Benefits of Enter Data :
+--------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Enter Data :
+-----------------------------------------
+*
+*
+*  
+
+7) Examples of Enter Data :
+---------------------------
+*
+*
+_________________________________________________________________________________
+
+ 4. <<<<<<<<< Select Data >>>>>>>>>
+__________________________________________________
+     Select Data                                  |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Select Data
+                                                                                        
+2) Definition of Select Data ?
+------------------------------
+*
+ 
+3) What is Select Data About ?
+------------------------------
+*
+*
+
+4) What does Select Data Do ?
+-----------------------------
+*
+*
+
+5) Advantages/Benefits of Select Data :
+---------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Select Data :
+------------------------------------------
+*
+*
+*  
+
+7) Examples of Select Data :
+----------------------------
+*
+*
+__________________________________________________________________________________
+
+ 5. <<<<<<<<< Delete Data >>>>>>>>>
+__________________________________________________
+      Delete Data                                 |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Delete Data
+                                                                                        
+2) Definition of Delete Data ?
+------------------------------
+*
+ 
+3) What is Delete Data About ?
+------------------------------
+*
+*
+
+4) What does Delete Data Do ?
+-----------------------------
+*
+*
+
+5) Advantages/Benefits of Delete Data :
+---------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Delete Data :
+------------------------------------------
+*
+*
+*  
+
+7) Examples of Delete Data :
+----------------------------
+*
+*
+__________________________________________________________________________________
+
+   *** Excel Fill Handle *** :
+       =================
+
+ 1. <<<<<<<<< Fill Handle >>>>>>>>>
+__________________________________________________
+      Fill Handle                                 |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Fill Handle
+                                                                                        
+2) Definition of Fill Handle ?
+------------------------------
+*
+ 
+3) What is Fill Handle About ?
+------------------------------
+*
+*
+
+4) What does Fill Handle Do ?
+-----------------------------
+*
+*
+
+5) Advantages/Benefits of Fill Handle :
+---------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Fill Handle :
+------------------------------------------
+*
+*
+*  
+
+7) Examples of Fill Handle :
+----------------------------
+*
+*
+_________________________________________________________________________________
+
+ 2. <<<<<<<<< Fill Handle with Text >>>>>>>>>
+__________________________________________________
+     Fill Handle with Text                        |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Fill Handle with Text
+                                                                                        
+2) Definition of Fill Handle with Text ?
+----------------------------------------
+*
+ 
+3) What is Fill Handle with Text About ?
+----------------------------------------
+*
+*
+
+4) What does Fill Handle with Text Do ?
+---------------------------------------
+*
+*
+
+5) Advantages/Benefits of Fill Handle with Text :
+-------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Fill Handle with Text :
+----------------------------------------------------
+*
+*
+*  
+
+7) Examples of Fill Handle with Text :
+--------------------------------------
+*
+*
+_________________________________________________________________________________
+
+ 3. <<<<<<<<< Text with Numbers >>>>>>>>>
+__________________________________________________
+     Text with Numbers                            |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Text with Numbers
+                                                                                        
+2) Definition of Text with Numbers ?
+------------------------------------
+*
+ 
+3) What is Text with Numbers About ?
+------------------------------------
+*
+*
+
+4) What does Text with Numbers Do ?
+-----------------------------------
+*
+*
+
+5) Advantages/Benefits of Text with Numbers :
+---------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Text with Numbers :
+------------------------------------------------
+*
+*
+*  
+
+7) Examples of Text with Numbers :
+----------------------------------
+*
+*
+_________________________________________________________________________________
+
+ 4. <<<<<<<<< Fill Handle with Dates >>>>>>>>>
+__________________________________________________
+     Fill Handle with Dates                       |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Fill Handle with Dates
+                                                                                        
+2) Definition of Fill Handle with Dates ?
+-----------------------------------------
+*
+ 
+3) What is Fill Handle with Dates About ?
+-----------------------------------------
+*
+*
+
+4) What does Fill Handle with Dates Do ?
+----------------------------------------
+*
+*
+
+5) Advantages/Benefits of Fill Handle with Dates :
+--------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Fill Handle with Dates :
+-----------------------------------------------------
+*
+*
+*  
+
+7) Examples of Fill Handle with Dates :
+---------------------------------------
+*
+*
+_________________________________________________________________________________
+
+   *** Excel Formula *** :
+       =============
+
+ 1. <<<<<<<<< Create Formula >>>>>>>>>
+__________________________________________________
+        Create Formula                            |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Create Formula
+                                                                                        
+2) Definition of Create Formula ?
+---------------------------------
+*
+ 
+3) What is Create Formula About ?
+---------------------------------
+*
+*
+
+4) What does Create Formula Do ?
+--------------------------------
+*
+*
+
+5) Advantages/Benefits of Create Formula :
+------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Create Formula :
+---------------------------------------------
+*
+*
+*  
+
+7) Examples of Create Formula :
+-------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 2. <<<<<<<<< Fill Handle in Formula >>>>>>>>>
+__________________________________________________
+     Fill Handle in Formula                       |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Fill Handle in Formula
+                                                                                        
+2) Definition of Fill Handle in Formula ?
+-----------------------------------------
+*
+ 
+3) What is Fill Handle in Formula About ?
+-----------------------------------------
+*
+*
+
+4) What does Fill Handle in Formula Do ?
+----------------------------------------
+*
+*
+
+5) Advantages/Benefits of Fill Handle in Formula :
+--------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Fill Handle in Formula :
+-----------------------------------------------------
+*
+*
+*  
+
+7) Examples of Fill Handle in Formula :
+---------------------------------------
+*
+*
+_________________________________________________________________________________
+
+ 3. <<<<<<<<< Relative Referencing >>>>>>>>>
+__________________________________________________
+     Relative Referencing                         |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Relative Referencing
+                                                                                        
+2) Definition of Relative Referencing ?
+---------------------------------------
+*
+ 
+3) What is Relative Referencing About ?
+---------------------------------------
+*
+*
+
+4) What does Relative Referencing Do ?
+--------------------------------------
+*
+*
+
+5) Advantages/Benefits of Relative Referencing :
+------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Relative Referencing :
+---------------------------------------------------
+*
+*
+*  
+
+7) Examples of Relative Referencing :
+-------------------------------------
+*
+*
+_________________________________________________________________________________
+
+ 4. <<<<<<<<< Absolute Referencing >>>>>>>>>
+__________________________________________________
+     Absolute Referencing                         |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Absolute Referencing
+                                                                                        
+2) Definition of Absolute Referencing ?
+---------------------------------------
+*
+ 
+3) What is Absolute Referencing About ?
+---------------------------------------
+*
+*
+
+4) What does Absolute Referencing Do ?
+--------------------------------------
+*
+*
+
+5) Advantages/Benefits of Absolute Referencing :
+------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Absolute Referencing :
+---------------------------------------------------
+*
+*
+*  
+
+7) Examples of Absolute Referencing :
+-------------------------------------
+*
+*
+_________________________________________________________________________________
+
+ 5. <<<<<<<<< Instruction for Typing >>>>>>>>>
+__________________________________________________
+      Instruction for Typing                      |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Instruction for Typing
+                                                                                        
+2) Definition of Instruction for Typing ?
+-----------------------------------------
+*
+ 
+3) What is Instruction for Typing About ?
+-----------------------------------------
+*
+*
+
+4) What does Instruction for Typing Do ?
+----------------------------------------
+*
+*
+
+5) Advantages/Benefits of Instruction for Typing :
+--------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Instruction for Typing :
+-----------------------------------------------------
+*
+*
+*  
+
+7) Examples of Instruction for Typing :
+---------------------------------------
+*
+*
+__________________________________________________________________________________
+
+ 6. <<<<<<<<< Quick Excel Functions >>>>>>>>>
+__________________________________________________
+        Quick Excel Functions                     |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Quick Excel Functions
+                                                                                        
+2) Definition of Quick Excel Functions ?
+----------------------------------------
+*
+ 
+3) What is Quick Excel Functions About ?
+----------------------------------------
+*
+*
+
+4) What does Quick Excel Functions Do ?
+---------------------------------------
+*
+*
+
+5) Advantages/Benefits of Quick Excel Functions :
+-------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Quick Excel Functions :
+----------------------------------------------------
+*
+*
+*  
+
+7) Examples of Quick Excel Functions :
+--------------------------------------
+*
+*
+__________________________________________________________________________________
+
+   *** Excel IF *** :
+       ========
+
+ 1. <<<<<<<<< If Function >>>>>>>>>
+__________________________________________________
+        If Function                               |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* If Function
+                                                                                        
+2) Definition of If Function ?
+------------------------------
+*
+ 
+3) What is If Function About ?
+------------------------------
+*
+*
+
+4) What does If Function Do ?
+-----------------------------
+*
+*
+
+5) Advantages/Benefits of If Function :
+---------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of If Function :
+------------------------------------------
+*
+*
+*  
+
+7) Examples of If Function :
+----------------------------
+*
+*
+_________________________________________________________________________________
+
+ 2. <<<<<<<<< If with Calculations >>>>>>>>>
+__________________________________________________
+     If with Calculations                         |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* If with Calculations
+                                                                                        
+2) Definition of If with Calculations ?
+---------------------------------------
+*
+ 
+3) What is If with Calculations About ?
+---------------------------------------
+*
+*
+
+4) What does If with Calculations Do ?
+--------------------------------------
+*
+*
+
+5) Advantages/Benefits of If with Calculations :
+------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of If with Calculations :
+---------------------------------------------------
+*
+*
+*  
+
+7) Examples of If with Calculations :
+-------------------------------------
+*
+*
+__________________________________________________________________________________
+
+ 3. <<<<<<<<< Excel COUNTIF >>>>>>>>>
+__________________________________________________
+     Excel COUNTIF                                |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Excel COUNTIF
+                                                                                        
+2) Definition of Excel COUNTIF ?
+--------------------------------
+*
+ 
+3) What is Excel COUNTIF About ?
+--------------------------------
+*
+*
+
+4) What does Excel COUNTIF Do ?
+-------------------------------
+*
+*
+
+5) Advantages/Benefits of Excel COUNTIF :
+-----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Excel COUNTIF :
+--------------------------------------------
+*
+*
+*  
+
+7) Examples of Excel COUNTIF :
+------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 4. <<<<<<<<< Advanced If >>>>>>>>>
+__________________________________________________
+     Advanced If                                  |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Advanced If
+                                                                                        
+2) Definition of Advanced If ?
+------------------------------
+*
+ 
+3) What is Advanced If About ?
+------------------------------
+*
+*
+
+4) What does Advanced If Do ?
+-----------------------------
+*
+*
+
+5) Advantages/Benefits of Advanced If :
+---------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Advanced If :
+------------------------------------------
+*
+*
+*  
+
+7) Examples of Advanced If :
+----------------------------
+*
+*
+_________________________________________________________________________________
+
+   *** Excel Advanced *** :
+       ==============
+
+ 1. <<<<<<<<< Excel Macros >>>>>>>>>
+__________________________________________________
+       Excel Macros                               |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Excel Macros
+                                                                                        
+2) Definition of Excel Macros ?
+-------------------------------
+*
+ 
+3) What is Excel Macros About ?
+-------------------------------
+*
+*
+
+4) What does Excel Macros Do ?
+------------------------------
+*
+*
+
+5) Advantages/Benefits of Excel Macros :
+----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Excel Macros :
+-------------------------------------------
+*
+*
+*  
+
+7) Examples of Excel Macros :
+-----------------------------
+*
+*
+_________________________________________________________________________________
+
+ 2. <<<<<<<<< Excel sumif >>>>>>>>>
+__________________________________________________
+     Excel sumif                                  |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Excel sumif
+                                                                                        
+2) Definition of Excel sumif ?
+------------------------------
+*
+ 
+3) What is Excel sumif About ?
+------------------------------
+*
+*
+
+4) What does Excel sumif Do ?
+-----------------------------
+*
+*
+
+5) Advantages/Benefits of Excel sumif :
+---------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Excel sumif :
+------------------------------------------
+*
+*
+*  
+
+7) Examples of Excel sumif :
+----------------------------
+*
+*
+_________________________________________________________________________________
+
+ 3. <<<<<<<<< Excel vlookup >>>>>>>>>
+__________________________________________________
+    Excel vlookup                                 |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Excel vlookup
+                                                                                        
+2) Definition of Excel vlookup ?
+--------------------------------
+*
+ 
+3) What is Excel vlookup About ?
+--------------------------------
+*
+*
+
+4) What does Excel vlookup Do ?
+-------------------------------
+*
+*
+
+5) Advantages/Benefits of Excel vlookup :
+-----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Excel vlookup :
+--------------------------------------------
+*
+*
+*  
+
+7) Examples of Excel vlookup :
+------------------------------
+*
+*
+__________________________________________________________________________________
+
+ 4. <<<<<<<<< What is Pivot Table >>>>>>>>>
+__________________________________________________
+     What is Pivot Table                          |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* What is Pivot Table
+                                                                                        
+2) Definition of What is Pivot Table ?
+--------------------------------------
+*
+ 
+3) What is What is Pivot Table About ?
+--------------------------------------
+*
+*
+
+4) What does What is Pivot Table Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of What is Pivot Table :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of What is Pivot Table :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of What is Pivot Table :
+------------------------------------
+*
+*
+__________________________________________________________________________________
+
+ 5. <<<<<<<<< Excel ISNA >>>>>>>>>
+__________________________________________________
+      Excel ISNA                                  |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Excel ISNA
+                                                                                        
+2) Definition of Excel ISNA ?
+-----------------------------
+*
+ 
+3) What is Excel ISNA About ?
+-----------------------------
+*
+*
+
+4) What does Excel ISNA Do ?
+----------------------------
+*
+*
+
+5) Advantages/Benefits of Excel ISNA :
+--------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Excel ISNA :
+-----------------------------------------
+*
+*
+*  
+
+7) Examples of Excel ISNA :
+---------------------------
+*
+*
+_________________________________________________________________________________
+
+ 6. <<<<<<<<< Find & Remove Duplicates >>>>>>>>>
+__________________________________________________
+        Find & Remove Duplicates                  |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Find & Remove Duplicates
+                                                                                        
+2) Definition of Find & Remove Duplicates ?
+-------------------------------------------
+*
+ 
+3) What is Find & Remove Duplicates About ?
+-------------------------------------------
+*
+*
+
+4) What does Find & Remove Duplicates Do ?
+------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Find & Remove Duplicates :
+----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Find & Remove Duplicates :
+-------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Find & Remove Duplicates :
+-----------------------------------------
+*
+*
+__________________________________________________________________________________
+
+ 7. <<<<<<<<< Create drop-down List >>>>>>>>>
+__________________________________________________
+     Create drop-down List                        |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Create drop-down List
+                                                                                        
+2) Definition of Create drop-down List ?
+----------------------------------------
+*
+ 
+3) What is Create drop-down List About ?
+----------------------------------------
+*
+*
+
+4) What does Create drop-down List Do ?
+---------------------------------------
+*
+*
+
+5) Advantages/Benefits of Create drop-down List :
+-------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Create drop-down List :
+----------------------------------------------------
+*
+*
+*  
+
+7) Examples of Create drop-down List :
+--------------------------------------
+*
+*
+_________________________________________________________________________________
+
+ 8. <<<<<<<<< Merge cells in Excel >>>>>>>>>
+__________________________________________________
+     Merge cells in Excel                         |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Merge cells in Excel
+                                                                                        
+2) Definition of Merge cells in Excel ?
+---------------------------------------
+*
+ 
+3) What is Merge cells in Excel About ?
+---------------------------------------
+*
+*
+
+4) What does Merge cells in Excel Do ?
+--------------------------------------
+*
+*
+
+5) Advantages/Benefits of Merge cells in Excel :
+------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Merge cells in Excel :
+---------------------------------------------------
+*
+*
+*  
+
+7) Examples of Merge cells in Excel :
+-------------------------------------
+*
+*
+_________________________________________________________________________________
+

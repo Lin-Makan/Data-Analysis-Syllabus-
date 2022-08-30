@@ -1,0 +1,122 @@
+
+    B. Microsoft Excel Syllabus :
+      ===============================
+              * Introduction to MS-Excel :
+                ***************************
+              * Cell references :
+                ``````````````````
+
+              * There are Three Types of Cell References in Excel :
+                `````````````````````````````````````````````````````
+                     1. Relative reference.
+                     2. Absolute reference.
+                     3. Mixed reference.
+
+              * The Ribbon :
+                ``````````````
+                   1. Home Tab :
+                   2. Insert Tab :   
+                   3. Page Layout :          
+                   4. Formulas :
+                   5. Data : 
+                   6. Review : 
+                   7. View : 
+
+              * Creating a new spreadsheet:
+                ````````````````````````````
+              * Opening previous spreadsheet:
+                `````````````````````````````
+              * Managing the spreadsheets:
+                `````````````````````````` 
+              * To save the workbook:
+                ``````````````````````
+              * To share your workbook:
+                ````````````````````````
+              * Ms-Excel shortcuts:
+                ````````````````````
+            
+                  1.  Ctrl+N: To open a new workbook.
+                  2.  Ctrl+O: To open a saved workbook.
+                  3.  Ctrl+S: To save a workbook.
+                  4.  Ctrl+C: To copy the selected cells.
+                  5.  Ctrl+V: To paste the copied cells.
+                  6.  Ctrl+X: To cut the selected cells.
+                  7.  Ctrl+W: To close the workbook.
+                  8.  Delete: To remove all the contents from the cell.
+                  9.  Ctrl+P: To print the workbook.
+                 10.  Ctrl+Z: To undo
+
+   *** MS Excel Tutorial *** :
+       =================
+
+       1.  Excel Tutorial open link
+       2.  Workbook Window
+       3.  Create & Open Workbooks
+       4.  MS Excel Online
+       5.  Excel vs Google Sheets
+       6.  Office Button
+       7.  Ribbon and Tabs
+       8.  Features of Tabs
+       9.  Quick Access Toolbar
+      10.  Mini Toolbar
+      11.  Title, Help, Zoom, View
+
+   *** Excel Worksheet *** :
+       ===============
+
+       1. Worksheet, Row, Column
+       2. Moving on Worksheet
+       3. Enter Data
+       4. Select Data
+       5. Delete Data
+       6. Move Data
+       7. Copy Paste Data
+       8. Spell Check
+       9. Insert Symbols
+
+   *** Excel Calculation *** :
+       =================
+
+       1. Addition
+       2. Sigma Addition
+       3. Subtraction
+       4. Calculate Average
+       5. Sigma Average
+
+   *** Excel Fill Handle *** :
+       =================
+
+       1. Fill Handle
+       2. Fill Handle with Text
+       3. Text with Numbers 
+       4. Fill Handle with Dates
+
+   *** Excel Formula *** :
+       =============
+
+       1. Create Formula
+       2. Fill Handle in Formula
+       3. Relative Referencing
+       4. Absolute Referencing 
+       5. Instruction for Typing
+       6. Quick Excel Functions
+
+   *** Excel IF *** :
+       ========
+
+       1. If Function
+       2. If with Calculations
+       3. Excel COUNTIF
+       4. Advanced If
+
+   *** Excel Advanced *** :
+       ==============
+
+       1. Excel Macros
+       2. Excel sumif
+       3. Excel vlookup
+       4. What is Pivot Table
+       5. Excel ISNA
+       6. Find & Remove Duplicates
+       7. Create drop-down List
+       8. Merge cells in Excel
