@@ -1,0 +1,14 @@
+
+   Connecting To SQL :
+   ===================
+   1) Microsoft SQL[MS] Introduction
+   
+   2) Overview of Databases
+   
+   3) MSSQL Installation
+    
+   4) MSSQL SSMS Installation
+
+   5) Connecting to MS-SQL (Windows Authentication)
+
+   6) Connecting to MS-SQL (SQL Server Authentication)
